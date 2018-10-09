@@ -10,13 +10,14 @@ h1,
 h2,
 h3 {
 	font-weight: 500;
+	font-size:2.6vw;
 	color: $heading-font-color;
 	font-family: $heading-font;
 	line-height: 1.2;
 }
 h1 {
 	color: $main;
-	font-size: 2.2em;
+	font-size: 2.2vw;
 	font-family: $heading-font;
 	a,
 	a:visited {
@@ -43,7 +44,7 @@ header {
 	padding: 0px 40px;
 	text-align: center;
 	margin: 40px 0 0;
-	height: 50vh;
+	height: 30vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
