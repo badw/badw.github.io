@@ -3,7 +3,7 @@
 		<nav>
 			<ul>
 				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{site.baseurl}}/">About</a></li>
+				<li><a href="{{ site.url }}/">About</a></li>
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %} {% endfor %}
 
