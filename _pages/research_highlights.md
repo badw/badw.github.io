@@ -14,6 +14,9 @@ The lack of a high-mobility, high conductivity, p-type dopable transparent condu
 
 ##### *Chemistry of Materials, **2017**, 29 (6), pp 2402--2413* -- DOI: [10.1021/acs.chemmater.6b03306](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6b03306)
 
+##### work featured on the [front cover](https://pubs.acs.org/subscribe/covers/cmatex/cmatex_v029i006.jpg?0.9807942710962036)
+
+
 ## Self-Compensation in Transparent Conducting F-doped SnO<sub>2</sub>
 
 The conductivity and mobility limits in fluorine-doped tin dioxide (FTO) are investigated using a combination of atmospheric pressure chemical vapor deposition (APCVD) and hybrid functional density functional theory (DFT). FTO is a widely used low-emissivity glass coating as well as a transparent conductive layer in photovoltaic cells. Modelling of the transport properties shows that the measured Hall effect mobilities are well below the theoretical ionised impurity scattering limit. Calculation of the dopant and intrinsic defects within FTO show that a self-compensation mechanism occurs whereby interstitial Fluorine (F<sub>i</sub>) acts as an acceptor compensating substitutional fluorine (F<sub>o</sub>). This work highlights the complex nature of dopants and defect in well characterised metal oxides, providing insight into the possible disadvantages to conventional doping.
