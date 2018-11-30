@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /research_highlights/
 ---
 
 ### Research Highlights
