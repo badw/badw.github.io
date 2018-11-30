@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /about/
 ---
 
 <center><img src="./assets/profile.jpg" width="200" height="200" /></center>
