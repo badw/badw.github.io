@@ -14,7 +14,7 @@ The lack of a high-mobility, high conductivity, p-type dopable transparent condu
 
 ##### *Chemistry of Materials, **2017**, 29 (6), pp 2402--2413* -- DOI: [10.1021/acs.chemmater.6b03306](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6b03306)
 
-##### work featured on the [front cover](https://pubs.acs.org/subscribe/covers/cmatex/cmatex_v029i006.jpg?0.9807942710962036)
+##### *work featured on the [front cover](https://pubs.acs.org/subscribe/covers/cmatex/cmatex_v029i006.jpg?0.9807942710962036)*
 
 
 ## Self-Compensation in Transparent Conducting F-doped SnO<sub>2</sub>
