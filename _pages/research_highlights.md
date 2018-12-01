@@ -27,7 +27,7 @@ The conductivity and mobility limits in fluorine-doped tin dioxide (FTO) are inv
 
 ## Computationally Driven Discovery of Layered Quinary Oxychalcogenide p-Type Transparent Conductors
 
-<center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  height="200" /></center>
+<center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  height="300" /></center>
 
 Continuing the search for a high mobility transparent p-type semiconductor to complement the flagship n-type TCOs (e.g. In<sub>2</sub>O<sub>3</sub>, SnO<sub>2</sub>, ZnO or BaSnO<sub>3</sub>) can be found by exploring more complex materials and utilising established design principles. In this work the layered oxychalcogenide, (Cu<sub>2</sub>S<sub>2</sub>)(Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>), a transparent (E<sub>g</sub> > 3.1eV) semiconductor with high reported hole mobilities (~150 cm<sup>2</sup> V<sup>-1</sup> s<sup>-1</sup>) was used as a parent compound for this analysis. Using chemical intuition for designer cation choice in the perovskite-like layer (Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>) we screened 24 variants of this structure type using high throughput density functional theory. From this analysis, our calculations uncovered 8 new thermodynamically stable semiconductors with applications ranging from transparent conductors to photovoltaics. Our predictions have been validated by experimental synthesis carried out by the group of Dr Geoff Hyett (University of Southampton) of a new p-type transparent conductor (TC), with a conductivity superior to all known p-type TCs. 
 
