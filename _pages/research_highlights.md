@@ -25,7 +25,7 @@ The conductivity and mobility limits in fluorine-doped tin dioxide (FTO) are inv
 
 ##### *Advanced Functional Materials, **2018**, 28, 1701900* -- DOI: [10.1002/adfm.201701900](<https://doi.org/10.1002/adfm.201701900>)
 
-## Computationally Driven Discovery of Layered Quinary Oxychalcogenide p-Type Transparent Conductors
+## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
 
 <center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  height="300" /></center>
 
@@ -33,4 +33,11 @@ Continuing the search for a high mobility transparent p-type semiconductor to co
 
 ##### *In submission, currently on ChemRxiv, 2018*  -- DOI: [chemrxiv.7078205](https://chemrxiv.org/articles/Computationally_Driven_Discovery_of_Layered_Quinary_Oxychalcogenide_p-Type_Transparent_Conductors/7078205)
 
-###### all work shown here is open access
+## Dispelling the Myth of Passivated Codoping in TiO<sub>2</sub>
+
+<center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  height="300" /></center>
+
+Modifying TiO<sub>2</sub> to enhance its visible light activity for photocatalytic performance has become a key research goal for materials scientists in the past two decades. Attempts at achieving this have come from extrinsic doping with acceptors such as nitrogen in order to reduce the band gap and promote visible light absorption. In reality, however, nitrogen doping results in localised acceptor states above the valence band maximum and cause detrimental trap states and recombination centres. A popular approach to alleviate this problem was to passivate the acceptor states by codoping with a donor dopant. Using the archetypal codoping pairs of [Nb+N] and [Ta+N]-doped anatase we show that passivated codoping is not achievable in TiO<sub>2</sub> using hybrid density functional theory. This work shows indicate that the natural defect chemistry of the host system (in this case _n_-type anatase TiO<sub>2</sub>) is dominant, and so concentration parity of dopant types is not achievable under any thermodynamic growth conditions. 
+
+##### *Chemistry of Materials, **2019**, 31 (7), pp 2577--2589* -- DOI: [10.1021/acs.chemmater.9b00257](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b00257)
+
