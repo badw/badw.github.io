@@ -5,26 +5,6 @@ permalink: /research_highlights/
 
 ### Research Highlights
 
-## Engineering Valence band Dispersion for High Mobility p-type Transparent Conductors
-
-<center><img src="{{ site.baseurl }}/assets/cacup-toc.jpg"  height="200" /></center>
-
-
-The lack of a high-mobility, high conductivity, p-type dopable transparent conductor has been a stumbling block for the electronics industry for decades. This hinders the development of transparent p-n junctions as well as improving on the efficiency of applications such as photovoltaics. This work furthers the design principles set about in copper-based oxides and chalcogenides extending them to the pnictides, in particular, the family of compounds with the MCuP formula (where M = Mg, Ca, Sr and Ba). Here the combination of Cu 3d and P 3p mixing at the top of the valence band twinned with a trigonal planar coordination gives rise to a highly dispersive valence band maximum (VBM) with a low ionisation potential ideal for high hole mobility dopability. Experimental undoped powders of CaCuP were synthesised as a proof of concept displaying high p-type conductivity. This work helps forward the field of transparent conductors and also shows that CaCuP is a material with the potential for enhancing applications which need a high hole mobility p-type component. This work was incollaboration with the group of Dr Robert Palgrave (University College London).
-
-##### *Chemistry of Materials, **2017**, 29 (6), pp 2402--2413* -- DOI: [10.1021/acs.chemmater.6b03306](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6b03306)
-
-##### *Part of the special issue "Computational Design of Functional Materials" with work featured on the [front cover](https://pubs.acs.org/subscribe/covers/cmatex/cmatex_v029i006.jpg?0.9807942710962036)*
-
-
-## Self-Compensation in Transparent Conducting F-doped SnO<sub>2</sub>
-
-<center><img src="{{ site.baseurl }}/assets/fto-toc.png"  height="200" /></center>
-
-The conductivity and mobility limits in fluorine-doped tin dioxide (FTO) are investigated using a combination of atmospheric pressure chemical vapor deposition (APCVD) and hybrid functional density functional theory (DFT). FTO is a widely used low-emissivity glass coating as well as a transparent conductive layer in photovoltaic cells. Modelling of the transport properties shows that the measured Hall effect mobilities are well below the theoretical ionised impurity scattering limit. Calculation of the dopant and intrinsic defects within FTO show that a self-compensation mechanism occurs whereby interstitial Fluorine (F<sub>i</sub>) acts as an acceptor compensating substitutional fluorine (F<sub>o</sub>). This work highlights the complex nature of dopants and defect in well characterised metal oxides, providing insight into the possible disadvantages to conventional doping. This work was in collaboration with the group of Prof. Tim Veal (University of Liverpool) and Pilkington NSG group.
-
-##### *Advanced Functional Materials, **2018**, 28, 1701900* -- DOI: [10.1002/adfm.201701900](<https://doi.org/10.1002/adfm.201701900>)
-
 ## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
 
 <center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  height="300" /></center>
@@ -40,3 +20,24 @@ Continuing the search for a high mobility transparent p-type semiconductor to co
 Modifying TiO<sub>2</sub> to enhance its visible light activity for photocatalytic performance has become a key research goal for materials scientists in the past two decades. Attempts at achieving this have come from extrinsic doping with acceptors such as nitrogen in order to reduce the band gap and promote visible light absorption. In reality however, nitrogen doping results in localised acceptor states above the valence band maximum and cause detrimental trap states and recombination centres. A popular approach to alleviate this problem was to passivate the acceptor states by codoping with a donor dopant. Using the archetypal codoping pairs of [Nb+N] and [Ta+N]-doped anatase we show that passivated codoping is not achievable in TiO<sub>2</sub> using hybrid density functional theory. This work shows indicate that the natural defect chemistry of the host system (in this case _n_-type anatase TiO<sub>2</sub>) is dominant, and so concentration parity of dopant types is not achievable under any thermodynamic growth conditions. 
 
 ##### *Chemistry of Materials, **2019**, 31 (7), pp 2577--2589* -- DOI: [10.1021/acs.chemmater.9b00257](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b00257)
+
+## Self-Compensation in Transparent Conducting F-doped SnO<sub>2</sub>
+
+<center><img src="{{ site.baseurl }}/assets/fto-toc.png"  height="200" /></center>
+
+The conductivity and mobility limits in fluorine-doped tin dioxide (FTO) are investigated using a combination of atmospheric pressure chemical vapor deposition (APCVD) and hybrid functional density functional theory (DFT). FTO is a widely used low-emissivity glass coating as well as a transparent conductive layer in photovoltaic cells. Modelling of the transport properties shows that the measured Hall effect mobilities are well below the theoretical ionised impurity scattering limit. Calculation of the dopant and intrinsic defects within FTO show that a self-compensation mechanism occurs whereby interstitial Fluorine (F<sub>i</sub>) acts as an acceptor compensating substitutional fluorine (F<sub>o</sub>). This work highlights the complex nature of dopants and defect in well characterised metal oxides, providing insight into the possible disadvantages to conventional doping. This work was in collaboration with the group of Prof. Tim Veal (University of Liverpool) and Pilkington NSG group.
+
+##### *Advanced Functional Materials, **2018**, 28, 1701900* -- DOI: [10.1002/adfm.201701900](<https://doi.org/10.1002/adfm.201701900>)
+
+## Engineering Valence band Dispersion for High Mobility p-type Transparent Conductors
+
+<center><img src="{{ site.baseurl }}/assets/cacup-toc.jpg"  height="200" /></center>
+
+
+The lack of a high-mobility, high conductivity, p-type dopable transparent conductor has been a stumbling block for the electronics industry for decades. This hinders the development of transparent p-n junctions as well as improving on the efficiency of applications such as photovoltaics. This work furthers the design principles set about in copper-based oxides and chalcogenides extending them to the pnictides, in particular, the family of compounds with the MCuP formula (where M = Mg, Ca, Sr and Ba). Here the combination of Cu 3d and P 3p mixing at the top of the valence band twinned with a trigonal planar coordination gives rise to a highly dispersive valence band maximum (VBM) with a low ionisation potential ideal for high hole mobility dopability. Experimental undoped powders of CaCuP were synthesised as a proof of concept displaying high p-type conductivity. This work helps forward the field of transparent conductors and also shows that CaCuP is a material with the potential for enhancing applications which need a high hole mobility p-type component. This work was incollaboration with the group of Dr Robert Palgrave (University College London).
+
+##### *Chemistry of Materials, **2017**, 29 (6), pp 2402--2413* -- DOI: [10.1021/acs.chemmater.6b03306](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6b03306)
+
+
+##### *Part of the special issue "Computational Design of Functional Materials" with work featured on the [front cover](https://pubs.acs.org/subscribe/covers/cmatex/cmatex_v029i006.jpg?0.9807942710962036)*
+
