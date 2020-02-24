@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /research_highlights/
+order: 1
 ---
 
 ### Research Highlights

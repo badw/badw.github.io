@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /cover_art/
+order: 2
 ---
 ### Cover Art
 
