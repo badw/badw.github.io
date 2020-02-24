@@ -24,7 +24,8 @@ h3 {
 h1 {
   color: #ffffff;
   font-size: calc(1.4em + .5vw);
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Open Sans", sans-serif;
+  font-weight: 200; }
   h1 a,
   h1 a:visited {
     text-decoration: none;
@@ -46,7 +47,7 @@ a:hover {
   text-decoration: none; }
 
 header {
-  background: #9ec2f7;
+  #	background: #9ec2f7;
   padding: 0px 10px;
   text-align: center;
   margin: 40px 0 0;

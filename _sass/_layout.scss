@@ -17,7 +17,8 @@ h3 {
 h1 {
 	color: $heading-font-color;
 	font-size: calc(1.4em + .5vw);
-	font-family: $heading-font;
+	font-family: $font-style;
+	font-weight:200;
 	a,
 	a:visited {
 		text-decoration: none;
@@ -41,7 +42,7 @@ a:hover {
 }
 
 header {
-	background: $header;
+#	background: $header;
 	padding: 0px 10px;
 	text-align: center;
 	margin: 40px 0 0;
