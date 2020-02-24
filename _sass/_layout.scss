@@ -50,9 +50,10 @@ header {
 	align-items: center;
 }
 main {
-	padding: 40px 40px;
+	padding: 30px 30px;
 	max-width: $content-width;
 	margin: 0 auto;
+	justify-content: space-evenly;
 }
 time {
 	color: #898989;
