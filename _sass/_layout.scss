@@ -18,11 +18,11 @@ h1 {
 	color: $heading-font-color;
 	font-size: calc(1.4em + .5vw);
 	font-family: $font-style;
-	font-weight:200;
+	font-weight:100;
 	a,
 	a:visited {
 		text-decoration: none;
-		color: $main;
+		color: $blue-color;
 	}
 }
 h2 {
@@ -36,7 +36,7 @@ h5 {
 	color: $blue-color;
 }
 h4 {
-	font-size: 1.1em ;
+	font-size: 1.0em ;
 	font-weight: 200;
 	color: $grey-color;
 }
