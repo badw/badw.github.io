@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	color: $font-color;
 	font-family: $font-style;
-	font-size: 1.1em;
+	font-size: calc(0.6em+ .5vw);
 	line-height: 1.6;
 }
 h1,
@@ -145,3 +145,4 @@ footer {
 .page__content { 
 	text-align: justify;
 }
+
