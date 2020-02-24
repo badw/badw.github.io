@@ -4,6 +4,10 @@ body {
 	font-family: $font-style;
 	font-size: calc(0.4em+ 0.8vw);
 	line-height: calc(1.0 + 0.6) ;
+	scroll-padding-top: 70px;
+}
+html {
+	scroll-padding-top:70px;
 }
 h1,
 h2,
