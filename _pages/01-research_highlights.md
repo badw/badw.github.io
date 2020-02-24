@@ -69,7 +69,7 @@ The lack of a high-mobility, high conductivity, p-type dopable transparent condu
 #### *Chemistry of Materials, **2017**, 29 (6), pp 2402--2413* -- DOI: [10.1021/acs.chemmater.6b03306](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6b03306)
 
 
-#### *Part of the special issue "Computational Design of Functional Materials" with work featured on the [front cover](https://pubs.acs.org/subscribe/covers/cmatex/cmatex_v029i006.jpg?0.9807942710962036)*
+#### *Part of the special issue "Computational Design of Functional Materials" with work featured on the [front cover](/_pages/02-cover_art.md)
 
 
 A full list of publications can be found on both [Google Scholar](https://scholar.google.com/citations?user=c34AgtMAAAAJ&hl=en) and my [CV](/assets/badw-cv.pdf/)
