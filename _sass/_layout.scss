@@ -5,6 +5,7 @@ body {
 	font-size: 1.1em;
 	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
+	display:flex;
 }
 h1,
 h2,
@@ -27,6 +28,7 @@ h1 {
 }
 h2 {
 	font-size: 1.5em ;
+	font-weight: bold;
 	color: $blue-color;
 }
 a,
