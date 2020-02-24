@@ -20,7 +20,7 @@ Building on the dopant design principles shown previously in our Mo-doped In<sub
 
 ##### tags: n-type TCO
 
-<center><img src="{{ site.baseurl }}/assets/imo.png"  height="300" /></center>
+<center><img src="{{ site.baseurl }}/assets/imo.png"  width="auto" width="300" /></center>
 
 This work focusses on developing higher mobility thin films of In<sub>2</sub>O<sub>3</sub> through dopant design. Mo-doped In<sub>2</sub>O<sub>3</sub> (IMO) thin films consistently displays higher mobilities (and thus conductivity) to the industry standard, Sn-doped In<sub>2</sub>O<sub>3</sub> (ITO). Through a mix of theory and spectroscopic methods we show that this is due to the lack of hybridisation of Mo dopant states with the host conduction band minimum (CMB). Unlike in ITO where this occurs, this means that there is no perturbation of the band curvature and effective mass of electrons in In<sub>2</sub>O<sub>3</sub> at the CBM. This understanding means that IMO thin films can achieve the same performance as ITO thin films at half the thickness resulting in a cheaper electronics and new directions for transparent conductors. This work is primarily in collaboration with Prof. Tim Veal and others at the University of Liverpool as well as with scientists at University College London, Binghamton University, Diamond Light source and Pilkington NSG Group.  
 
@@ -69,7 +69,7 @@ The lack of a high-mobility, high conductivity, p-type dopable transparent condu
 #### *Chemistry of Materials, **2017**, 29 (6), pp 2402--2413* -- DOI: [10.1021/acs.chemmater.6b03306](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.6b03306)
 
 
-#### *Part of the special issue "Computational Design of Functional Materials" with work featured on the [front cover](/cover_art/)
+#### Part of the special issue "Computational Design of Functional Materials" with work featured on the [front cover](/cover_art/)
 
 
 A full list of publications can be found on both [Google Scholar](https://scholar.google.com/citations?user=c34AgtMAAAAJ&hl=en) and my [CV](/assets/badw-cv.pdf/)
