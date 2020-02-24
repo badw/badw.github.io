@@ -8,7 +8,7 @@ order: 2
 
 ## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO<sub>2</sub>
 
-##### tags: n-type TCO
+###### tags: n-type TCO
 
 <center><img src="{{ site.baseurl }}/assets/tato-toc.png"  height="300" /></center>
 
