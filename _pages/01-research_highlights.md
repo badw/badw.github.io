@@ -8,7 +8,7 @@ order: 2
 
 ## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO<sub>2</sub>
 
-##### tags: n-type TCO
+##### tags: n-type TCO, electronic mobility, doping
 
 <center><img src="{{ site.baseurl }}/assets/tato-toc.png"  width="auto" width="300" /></center>
 
@@ -18,7 +18,7 @@ Building on the dopant design principles shown previously in our Mo-doped In<sub
 
 ## Resonant Doping for High Mobility Transparent Conductors: the Case of Mo-doped In<sub>2</sub>O<sub>3</sub>
 
-##### tags: n-type TCO
+##### tags: n-type TCO, electronic mobility, doping
 
 <center><img src="{{ site.baseurl }}/assets/imo.png"  width="auto" width="300" /></center>
 
@@ -29,7 +29,7 @@ This work focusses on developing higher mobility thin films of In<sub>2</sub>O<s
 
 ## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
 
-##### tags: p-type TCO, photocatalyst
+##### tags: p-type TCO, photocatalyst, materials prediction
 
 <center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  width="auto" width="300" /></center>
 
@@ -39,7 +39,7 @@ Continuing the search for a high mobility transparent p-type semiconductor to co
 
 ## Dispelling the Myth of Passivated Codoping in TiO<sub>2</sub>
 
-##### tags: photocatalyst
+##### tags: photocatalyst, doping
 
 <center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  width="auto" width="300" /></center>
 
@@ -49,7 +49,7 @@ Modifying TiO<sub>2</sub> to enhance its visible light activity for photocatalyt
 
 ## Self-Compensation in Transparent Conducting F-doped SnO<sub>2</sub>
 
-##### tags: n-type TCO
+##### tags: n-type TCO, doping
 
 <center><img src="{{ site.baseurl }}/assets/fto-toc.png"  height="200" /></center>
 
