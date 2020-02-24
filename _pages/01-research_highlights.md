@@ -10,7 +10,7 @@ order: 2
 
 ##### tags: n-type TCO, electronic mobility, doping
 
-<center><img src="{{ site.baseurl }}/assets/tato-toc.png"  width="auto" width="300" /></center>
+<center><img src="{{ site.baseurl }}/assets/tato-toc.png"  height="auto" height="300" /></center>
 
 Building on the dopant design principles shown previously in our Mo-doped In<sub>2</sub>O<sub>3</sub> [work](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract) we show that Ta is the optimum dopant for SnO<sub>2</sub>. We show that Ta is a low formation energy *resonant* electron donor with a lack of dopant hybridisation at the conduction band minimum (CBM) unlike in Sb-doped SnO<sub>2</sub> (ATO) or F-doped SnO<sub>2</sub> (FTO). Thin films of Ta-doped SnO<sub>2</sub> (TaTO) were also fabricated using aerosol-assisted chemical vapour deposition (AACVD), which, combined with high resolution photoelectron spectroscopy and semiconductor statistics modelling show an enhanced mobility compared to ATO and FTO, thus proving that the theory holds for other *ns<sup>0</sup>* semiconductors where the CBM is dominated by metal *s* states. This work was a close collaboration with Prof. Tim Veal and others at the University of Liverpool as well as with scientists at University College London, Diamond Light source and Pilkington NSG Group.
 
@@ -20,7 +20,7 @@ Building on the dopant design principles shown previously in our Mo-doped In<sub
 
 ##### tags: n-type TCO, electronic mobility, doping
 
-<center><img src="{{ site.baseurl }}/assets/imo.png"  width="auto" width="300" /></center>
+<center><img src="{{ site.baseurl }}/assets/imo.png"  height="auto" height="300" /></center>
 
 This work focusses on developing higher mobility thin films of In<sub>2</sub>O<sub>3</sub> through dopant design. Mo-doped In<sub>2</sub>O<sub>3</sub> (IMO) thin films consistently displays higher mobilities (and thus conductivity) to the industry standard, Sn-doped In<sub>2</sub>O<sub>3</sub> (ITO). Through a mix of theory and spectroscopic methods we show that this is due to the lack of hybridisation of Mo dopant states with the host conduction band minimum (CMB). Unlike in ITO where this occurs, this means that there is no perturbation of the band curvature and effective mass of electrons in In<sub>2</sub>O<sub>3</sub> at the CBM. This understanding means that IMO thin films can achieve the same performance as ITO thin films at half the thickness resulting in a cheaper electronics and new directions for transparent conductors. This work is primarily in collaboration with Prof. Tim Veal and others at the University of Liverpool as well as with scientists at University College London, Binghamton University, Diamond Light source and Pilkington NSG Group.  
 
@@ -31,7 +31,7 @@ This work focusses on developing higher mobility thin films of In<sub>2</sub>O<s
 
 ##### tags: p-type TCO, photocatalyst, materials prediction
 
-<center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  width="auto" width="300" /></center>
+<center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  height="auto" height="300" /></center>
 
 Continuing the search for a high mobility transparent p-type semiconductor to complement the flagship n-type TCOs (e.g. In<sub>2</sub>O<sub>3</sub>, SnO<sub>2</sub>, ZnO or BaSnO<sub>3</sub>) can be found by exploring more complex materials and utilising established design principles. In this work the layered oxychalcogenide, (Cu<sub>2</sub>S<sub>2</sub>)(Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>), a transparent (E<sub>g</sub> > 3.1eV) semiconductor with high reported hole mobilities (~150 cm<sup>2</sup> V<sup>-1</sup> s<sup>-1</sup>) was used as a parent compound for this analysis. Using chemical intuition for designer cation choice in the perovskite-like layer (Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>) we screened 24 variants of this structure type using high throughput density functional theory. From this analysis, our calculations uncovered 8 new thermodynamically stable semiconductors with applications ranging from transparent conductors to photovoltaics. Our predictions have been validated by experimental synthesis carried out by the group of Dr Geoff Hyett (University of Southampton) of a new p-type transparent conductor (TC), with a conductivity superior to all known p-type TCs. 
 
@@ -41,7 +41,7 @@ Continuing the search for a high mobility transparent p-type semiconductor to co
 
 ##### tags: photocatalyst, doping
 
-<center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  width="auto" width="300" /></center>
+<center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  height="auto" height="300" /></center>
 
 Modifying TiO<sub>2</sub> to enhance its visible light activity for photocatalytic performance has become a key research goal for materials scientists in the past two decades. Attempts at achieving this have come from extrinsic doping with acceptors such as nitrogen in order to reduce the band gap and promote visible light absorption. In reality however, nitrogen doping results in localised acceptor states above the valence band maximum and cause detrimental trap states and recombination centres. A popular approach to alleviate this problem was to passivate the acceptor states by codoping with a donor dopant. Using the archetypal codoping pairs of [Nb+N] and [Ta+N]-doped anatase we show that passivated codoping is not achievable in TiO<sub>2</sub> using hybrid density functional theory. This work shows indicate that the natural defect chemistry of the host system (in this case _n_-type anatase TiO<sub>2</sub>) is dominant, and so concentration parity of dopant types is not achievable under any thermodynamic growth conditions. 
 
