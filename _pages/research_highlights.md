@@ -5,6 +5,14 @@ permalink: /research_highlights/
 
 ### Research Highlights
 
+## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO<sub>2</sub>
+
+<center><img src="{{ site.baseurl }}/assets/tato-toc.png"  height="300" /></center>
+
+Building on the dopant design principles shown previously in our Mo-doped In<sub>2</sub>O<sub>3</sub> [work](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b04845) we show that Ta is the optimum dopant for SnO<sub>2</sub>. We show that Ta is a low formation energy *resonant* electron donor with a lack of dopant hybridisation at the conduction band minimum (CBM) unlike in Sb-doped SnO<sub>2</sub> (ATO) or F-doped SnO<sub>2</sub> (FTO). Thin films of Ta-doped SnO<sub>2</sub> (TaTO) were also fabricated using aerosol-assisted chemical vapour deposition (AACVD), which, combined with high resolution photoelectron spectroscopy and semiconductor statistics modelling show an enhanced mobility compared to ATO and FTO, thus proving that the theory holds for other "*nsSnO<sup>2</sup>0*"" semiconductors where the CBM is dominated by metal *s* states. This work was a close collaboration with Prof. Tim Veal and others at the University of Liverpool as well as with scientists at University College London, Diamond Light source and Pilkington NSG Group.
+
+##### *Chemistry of Materials, **2020** (just accepted manuscript)* -- DOI: [10.1021/acs.chemmater.9b04845](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b04845)
+
 ## Resonant Doping for High Mobility Transparent Conductors: the Case of Mo-doped In<sub>2</sub>O<sub>3</sub>
 
 <center><img src="{{ site.baseurl }}/assets/imo.png"  height="300" /></center>
@@ -12,7 +20,7 @@ permalink: /research_highlights/
 This work focusses on developing higher mobility thin films of In<sub>2</sub>O<sub>3</sub> through dopant design. Mo-doped In<sub>2</sub>O<sub>3</sub> (IMO) thin films consistently displays higher mobilities (and thus conductivity) to the industry standard, Sn-doped In<sub>2</sub>O<sub>3</sub> (ITO). Through a mix of theory and spectroscopic methods we show that this is due to the lack of hybridisation of Mo dopant states with the host conduction band minimum (CMB). Unlike in ITO where this occurs, this means that there is no perturbation of the band curvature and effective mass of electrons in In<sub>2</sub>O<sub>3</sub> at the CBM. This understanding means that IMO thin films can achieve the same performance as ITO thin films at half the thickness resulting in a cheaper electronics and new directions for transparent conductors. This work is primarily in collaboration with Prof. Tim Veal and others at the University of Liverpool as well as with scientists at University College London, Binghamton University, Diamond Light source and Pilkington NSG Group.  
 
 
-##### *Materials Horizons, **2019**, Advance Article* -- DOI: [10.1039/C9MH01014A](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract)
+##### *Materials Horizons, **2020**, 7, 236-243* -- DOI: [10.1039/C9MH01014A](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract)
 
 ## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
 
