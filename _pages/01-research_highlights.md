@@ -8,6 +8,8 @@ order: 2
 
 ## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO<sub>2</sub>
 
+##### tags: n-type TCO
+
 <center><img src="{{ site.baseurl }}/assets/tato-toc.png"  height="300" /></center>
 
 Building on the dopant design principles shown previously in our Mo-doped In<sub>2</sub>O<sub>3</sub> [work](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract) we show that Ta is the optimum dopant for SnO<sub>2</sub>. We show that Ta is a low formation energy *resonant* electron donor with a lack of dopant hybridisation at the conduction band minimum (CBM) unlike in Sb-doped SnO<sub>2</sub> (ATO) or F-doped SnO<sub>2</sub> (FTO). Thin films of Ta-doped SnO<sub>2</sub> (TaTO) were also fabricated using aerosol-assisted chemical vapour deposition (AACVD), which, combined with high resolution photoelectron spectroscopy and semiconductor statistics modelling show an enhanced mobility compared to ATO and FTO, thus proving that the theory holds for other *ns<sup>0</sup>* semiconductors where the CBM is dominated by metal *s* states. This work was a close collaboration with Prof. Tim Veal and others at the University of Liverpool as well as with scientists at University College London, Diamond Light source and Pilkington NSG Group.
@@ -15,6 +17,8 @@ Building on the dopant design principles shown previously in our Mo-doped In<sub
 ##### *Chemistry of Materials, **2020** (just accepted manuscript)* -- DOI: [10.1021/acs.chemmater.9b04845](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b04845)
 
 ## Resonant Doping for High Mobility Transparent Conductors: the Case of Mo-doped In<sub>2</sub>O<sub>3</sub>
+
+##### tags: n-type TCO
 
 <center><img src="{{ site.baseurl }}/assets/imo.png"  height="300" /></center>
 
@@ -25,6 +29,8 @@ This work focusses on developing higher mobility thin films of In<sub>2</sub>O<s
 
 ## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
 
+##### tags: p-type TCO, photocatalyst
+
 <center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  height="300" /></center>
 
 Continuing the search for a high mobility transparent p-type semiconductor to complement the flagship n-type TCOs (e.g. In<sub>2</sub>O<sub>3</sub>, SnO<sub>2</sub>, ZnO or BaSnO<sub>3</sub>) can be found by exploring more complex materials and utilising established design principles. In this work the layered oxychalcogenide, (Cu<sub>2</sub>S<sub>2</sub>)(Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>), a transparent (E<sub>g</sub> > 3.1eV) semiconductor with high reported hole mobilities (~150 cm<sup>2</sup> V<sup>-1</sup> s<sup>-1</sup>) was used as a parent compound for this analysis. Using chemical intuition for designer cation choice in the perovskite-like layer (Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>) we screened 24 variants of this structure type using high throughput density functional theory. From this analysis, our calculations uncovered 8 new thermodynamically stable semiconductors with applications ranging from transparent conductors to photovoltaics. Our predictions have been validated by experimental synthesis carried out by the group of Dr Geoff Hyett (University of Southampton) of a new p-type transparent conductor (TC), with a conductivity superior to all known p-type TCs. 
@@ -32,6 +38,8 @@ Continuing the search for a high mobility transparent p-type semiconductor to co
 ##### *In submission, currently on ChemRxiv, 2018*  -- DOI: [chemrxiv.7078205](https://chemrxiv.org/articles/Computationally_Driven_Discovery_of_Layered_Quinary_Oxychalcogenide_p-Type_Transparent_Conductors/7078205)
 
 ## Dispelling the Myth of Passivated Codoping in TiO<sub>2</sub>
+
+##### tags: photocatalyst
 
 <center><img src="{{ site.baseurl }}/assets/tio2-codoping-toc.png"  height="300" /></center>
 
@@ -41,6 +49,8 @@ Modifying TiO<sub>2</sub> to enhance its visible light activity for photocatalyt
 
 ## Self-Compensation in Transparent Conducting F-doped SnO<sub>2</sub>
 
+##### tags: n-type TCO
+
 <center><img src="{{ site.baseurl }}/assets/fto-toc.png"  height="200" /></center>
 
 The conductivity and mobility limits in fluorine-doped tin dioxide (FTO) are investigated using a combination of atmospheric pressure chemical vapor deposition (APCVD) and hybrid functional density functional theory (DFT). FTO is a widely used low-emissivity glass coating as well as a transparent conductive layer in photovoltaic cells. Modelling of the transport properties shows that the measured Hall effect mobilities are well below the theoretical ionised impurity scattering limit. Calculation of the dopant and intrinsic defects within FTO show that a self-compensation mechanism occurs whereby interstitial Fluorine (F<sub>i</sub>) acts as an acceptor compensating substitutional fluorine (F<sub>o</sub>). This work highlights the complex nature of dopants and defect in well characterised metal oxides, providing insight into the possible disadvantages to conventional doping. This work was in collaboration with the group of Prof. Tim Veal (University of Liverpool) and Pilkington NSG group.
@@ -48,6 +58,8 @@ The conductivity and mobility limits in fluorine-doped tin dioxide (FTO) are inv
 ##### *Advanced Functional Materials, **2018**, 28, 1701900* -- DOI: [10.1002/adfm.201701900](<https://doi.org/10.1002/adfm.201701900>)
 
 ## Engineering Valence band Dispersion for High Mobility p-type Transparent Conductors
+
+##### tags: p-type TCO
 
 <center><img src="{{ site.baseurl }}/assets/cacup-toc.jpg"  height="200" /></center>
 
