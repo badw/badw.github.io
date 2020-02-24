@@ -56,6 +56,8 @@ a:hover {
 header {
 #	background: $header;
 	padding: 0px 10px;
+	font-size: calc(1.0em + 1.0vw)' 
+	font-weight: 200; 
 	text-align: center;
 	margin: 20px 0 0;
 	height: calc(5vh + 15vw);
