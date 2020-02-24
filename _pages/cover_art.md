@@ -3,6 +3,7 @@ layout: default
 permalink: /cover_art/
 order: 2
 ---
+
 ### Cover Art
 
 ## Engineering Valence Band Dispersion for High Mobility *p*-Type Transparent Conductors 

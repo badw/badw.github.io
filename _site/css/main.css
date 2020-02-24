@@ -11,19 +11,19 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 1.1em;
   line-height: 1.6;
-  -webkit-font-smoothing: antialiased; }
+  display: flex; }
 
 h1,
 h2,
 h3 {
-  font-weight: 300;
+  font-weight: 200;
   font-size: calc(0.9em + .5vw);
-  color: #3a4654;
+  color: #727272;
   font-family: "Open Sans", sans-serif;
   line-height: 1.2; }
 
 h1 {
-  color: #646464;
+  color: #ffffff;
   font-size: calc(1.4em + .5vw);
   font-family: "Open Sans", sans-serif; }
   h1 a,
@@ -32,7 +32,9 @@ h1 {
     color: #646464; }
 
 h2 {
-  font-size: 1.5em; }
+  font-size: 1.5em;
+  font-weight: 200;
+  color: #9ec2f7; }
 
 a,
 a:visited {
@@ -45,7 +47,7 @@ a:hover {
   text-decoration: none; }
 
 header {
-  background: #c8c8c8;
+  background: #9ec2f7;
   padding: 0px 10px;
   text-align: center;
   margin: 40px 0 0;
@@ -96,7 +98,7 @@ aside {
           margin-bottom: -1px;
           box-shadow: 0; }
           aside nav ul li a:hover, aside nav ul li a:active {
-            background: #c8c8c8;
+            background: #9ec2f7;
             text-decoration: none;
             color: #646464; }
     aside nav:after {
