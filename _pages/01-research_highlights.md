@@ -14,7 +14,9 @@ order: 2
 
 Building on the dopant design principles shown previously in our Mo-doped In<sub>2</sub>O<sub>3</sub> [work](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract) we show that Ta is the optimum dopant for SnO<sub>2</sub>. We show that Ta is a low formation energy *resonant* electron donor with a lack of dopant hybridisation at the conduction band minimum (CBM) unlike in Sb-doped SnO<sub>2</sub> (ATO) or F-doped SnO<sub>2</sub> (FTO). Thin films of Ta-doped SnO<sub>2</sub> (TaTO) were also fabricated using aerosol-assisted chemical vapour deposition (AACVD), which, combined with high resolution photoelectron spectroscopy and semiconductor statistics modelling show an enhanced mobility compared to ATO and FTO, thus proving that the theory holds for other *ns<sup>0</sup>* semiconductors where the CBM is dominated by metal *s* states. This work was a close collaboration with Prof. Tim Veal and others at the University of Liverpool as well as with scientists at University College London, Diamond Light source and Pilkington NSG Group.
 
-#### *Chemistry of Materials, **2020** (just accepted manuscript)* -- DOI: [10.1021/acs.chemmater.9b04845](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b04845)
+#### *Chemistry of Materials, **2020** 32 (5), 1964-1973* -- DOI: [10.1021/acs.chemmater.9b04845](https://pubs.acs.org/doi/10.1021/acs.chemmater.9b04845)
+
+#### This work was featured on the [front cover](/cover_art/)
 
 ## Resonant Doping for High Mobility Transparent Conductors: the Case of Mo-doped In<sub>2</sub>O<sub>3</sub>
 
