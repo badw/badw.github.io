@@ -6,6 +6,16 @@ order: 2
 
 ### Research Highlights
 
+## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
+
+##### tags: p-type TCO, photocatalyst, materials prediction
+
+<center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  width="auto" width="300" /></center>
+
+Continuing the search for a high mobility transparent p-type semiconductor to complement the flagship n-type TCOs (e.g. In<sub>2</sub>O<sub>3</sub>, SnO<sub>2</sub>, ZnO or BaSnO<sub>3</sub>) can be found by exploring more complex materials and utilising established design principles. In this work the layered oxychalcogenide, (Cu<sub>2</sub>S<sub>2</sub>)(Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>), a transparent (E<sub>g</sub> > 3.1eV) semiconductor with high reported hole mobilities (~150 cm<sup>2</sup> V<sup>-1</sup> s<sup>-1</sup>) was used as a parent compound for this analysis. Using chemical intuition for designer cation choice in the perovskite-like layer (Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>) we screened 24 variants of this structure type using high throughput density functional theory. From this analysis, our calculations uncovered 9 new thermodynamically stable semiconductors with applications ranging from transparent conductors to photovoltaics. Our predictions have been validated by experimental synthesis carried out by the group of Dr Geoff Hyett (University of Southampton) of a new p-type transparent conductor (TC), with a conductivity superior to all known p-type TCs. 
+
+#### *Matter, Cell Press* **2020**  -- DOI: [https://doi.org/10.1016/j.matt.2020.05.020](10.1016/j.matt.2020.05.020)
+
 ## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO<sub>2</sub>
 
 ##### tags: n-type TCO, electronic mobility, doping
@@ -29,15 +39,6 @@ This work focusses on developing higher mobility thin films of In<sub>2</sub>O<s
 
 #### *Materials Horizons, **2020**, 7, 236-243* -- DOI: [10.1039/C9MH01014A](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract)
 
-## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
-
-##### tags: p-type TCO, photocatalyst, materials prediction
-
-<center><img src="{{ site.baseurl }}/assets/scsos-toc.png"  width="auto" width="300" /></center>
-
-Continuing the search for a high mobility transparent p-type semiconductor to complement the flagship n-type TCOs (e.g. In<sub>2</sub>O<sub>3</sub>, SnO<sub>2</sub>, ZnO or BaSnO<sub>3</sub>) can be found by exploring more complex materials and utilising established design principles. In this work the layered oxychalcogenide, (Cu<sub>2</sub>S<sub>2</sub>)(Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>), a transparent (E<sub>g</sub> > 3.1eV) semiconductor with high reported hole mobilities (~150 cm<sup>2</sup> V<sup>-1</sup> s<sup>-1</sup>) was used as a parent compound for this analysis. Using chemical intuition for designer cation choice in the perovskite-like layer (Sr<sub>3</sub>Sc<sub>2</sub>O<sub>5</sub>) we screened 24 variants of this structure type using high throughput density functional theory. From this analysis, our calculations uncovered 8 new thermodynamically stable semiconductors with applications ranging from transparent conductors to photovoltaics. Our predictions have been validated by experimental synthesis carried out by the group of Dr Geoff Hyett (University of Southampton) of a new p-type transparent conductor (TC), with a conductivity superior to all known p-type TCs. 
-
-#### *In submission, currently on ChemRxiv, 2018*  -- DOI: [chemrxiv.7078205](https://chemrxiv.org/articles/Computationally_Driven_Discovery_of_Layered_Quinary_Oxychalcogenide_p-Type_Transparent_Conductors/7078205)
 
 ## Dispelling the Myth of Passivated Codoping in TiO<sub>2</sub>
 
