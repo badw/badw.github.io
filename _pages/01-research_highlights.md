@@ -19,7 +19,7 @@ Continuing the search for a high mobility transparent p-type semiconductor to co
 #### *Matter, Cell Press* -- DOI: [10.1016/j.matt.2020.08.008](https://doi.org/10.1016/j.matt.2020.08.008)
 
 > Follow up work by Dr G. Limburn et al. shows the versatility and tunability of these materials focussing on Ba<sub>3</sub>Sc<sub>2-x</sub>In<sub>x</sub>O<sub>5</sub>Cu<sub>2</sub>S<sub>2</sub> and Ba<sub>3</sub>In<sub>2</sub>O<sub>5</sub>Cu<sub>2</sub>S<sub>2-y</sub>Se<sub>y</sub>  for photocatalysis applications.  
-#### *J. Mater. Chem. A*  **2020** -- DOI: [https://doi.org/10.1039/D0TA06629J](https://pubs.rsc.org/en/Content/ArticleLanding/2020/TA/D0TA06629J#!divAbstract) 
+#### *J. Mater. Chem. A*  **2020** -- DOI: [10.1039/D0TA06629J](https://pubs.rsc.org/en/Content/ArticleLanding/2020/TA/D0TA06629J#!divAbstract) 
 
 ## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO<sub>2</sub>
 
