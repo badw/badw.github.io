@@ -1,4 +1,4 @@
-@use 'base';
+@use './base';
 html, html[data-theme="light"] {
   --link-color: $light-link-color;
   --main-background-color: rgb(255, 255, 255);
