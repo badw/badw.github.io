@@ -14,19 +14,19 @@ $light-grey-color: #727272;
 $dark-grey-color: #c9c7c7;
 
 html, html[data-theme="light"] {
-  --link-color: $light-link-color;
+  --link-color: rgb(66, 84, 105);
   --main-background-color: rgb(255, 255, 255);
-  --main-text-color: $light-font-color;
-  --grey-text-color: $light-grey-color;
-  --blue-text-color: $light-blue-color;
+  --main-text-color: rgb(38, 38, 38);
+  --grey-text-color: rgb(114, 114, 114);
+  --blue-text-color: rgb(158, 194, 247);
 }
 
 html[data-theme="dark"] {
-  --link-color: $dark-link-color;
+  --link-color: rgb(133, 175, 222);
   --main-background-color: rgb(80,80,80);
-  --main-text-color: $dark-font-color;
-  --grey-text-color: $dark-grey-color;
-  --blue-text-color: $dark-blue-color;
+  --main-text-color: rgb(247, 247, 247);
+  --grey-text-color: rgb(201, 199, 199);
+  --blue-text-color: rgb(158, 194, 247);
 }
 
 @media (prefers-color-scheme: dark) {
