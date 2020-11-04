@@ -7,7 +7,7 @@ html, html[data-theme="light"] {
 html[data-theme="dark"] {
   --link-color: rgb( 100, 210, 255);
   --main-background-color: rgb(80,80,80);
-  --main-text-color: rgb(47, 247, 247);
+  --main-text-color: rgb(247, 247, 247);
 }
 
 
@@ -15,7 +15,7 @@ html[data-theme="dark"] {
     html, html[data-theme="dark"] {
       --link-color: rgb( 100, 210, 255);
     	--main-background-color: rgb(80,80,80);
-    	--main-text-color: rgb(47, 247, 247);
+    	--main-text-color: rgb(247, 247, 247);
     }
 
     html[data-theme="light"] {
