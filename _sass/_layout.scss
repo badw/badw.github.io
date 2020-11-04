@@ -30,23 +30,23 @@ h1 {
 	a,
 	a:visited {
 		text-decoration: none;
-		color: $blue-color;
+		color: var(--blue-text-color);
 	}
 }
 h2 {
 	font-size: 1.5em ;
 	font-weight: 200;
-	color: $blue-color;
+	color: var(--blue-text-color);
 }
 h5 {
 	font-size: 0.9em ;
 	font-weight: 200;
-	color: $blue-color;
+	color: var(--blue-text-color);
 }
 h4 {
 	font-size: 0.9em ;
 	font-weight: 200;
-	color: $grey-color;
+	color: var(--grey-text-color);
 }
 
 a,
@@ -121,7 +121,7 @@ aside {
 					&:active {
 						background: $header;
 						text-decoration: none;
-						color: $grey-color;
+						color: var(--grey-text-color);
 					}
 				}
 			}
@@ -129,7 +129,7 @@ aside {
 				content: '';
 				display: table;
 				clear: both;
-				color: $blue-color;
+				color: var(--blue-text-color);
 			}
 		}
 	}
@@ -146,10 +146,10 @@ footer {
         vertical-align: middle;
 	padding: 5px;
         path {
-            fill: $grey-color;
+            fill: var(--grey-text-color);
         }
 	points {
-	    fill: $grey-color;
+	    fill: var(--grey-text-color);
 	}
     }
 }
