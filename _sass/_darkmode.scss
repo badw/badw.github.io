@@ -1,4 +1,18 @@
-@use './base';
+$main: #646464;
+$light-font-color: #262626;
+$dark-font-color: #f7f7f7;
+$light-link-color: #425469;
+$dark-link-color: #85afde;
+$link-hover-color: $main;
+$heading-font-color: #9ec2f7;
+$light: rgba(231, 237, 244, 50);
+$dark: rgba(47, 72, 101,50);
+$header: #9ec2f7;
+$light-blue-color: #9ec2f7;
+$dark-blue-color: #9ec2f7;
+$light-grey-color: #727272;
+$dark-grey-color: #c9c7c7;
+
 html, html[data-theme="light"] {
   --link-color: $light-link-color;
   --main-background-color: rgb(255, 255, 255);
