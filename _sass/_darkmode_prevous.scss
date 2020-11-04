@@ -13,3 +13,16 @@ html[data-theme="dark"] {
   --grey-text-color: $dark-grey-color;
   --blue-text-color: $dark-blue-color;
 }
+
+
+@media (prefers-color-scheme: dark) {
+    html, html[data-theme="dark"] {
+    	--main-background-color: rgb(80,80,80);
+    	--main-text-color: rgb(247, 247, 247);
+    }
+
+    html[data-theme="light"] {
+    	--main-background-color: rgb(255,255,255);
+  	 --main-text-color: $light-font-color;
+  }
+}
