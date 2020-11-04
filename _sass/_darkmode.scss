@@ -1,13 +1,15 @@
 html, html[data-theme="light"] {
 	--link-color: rgb(0, 112, 201);
   --main-background-color: rgb(255, 255, 255);
-  --main-text-color: $light-font-colour;
+  --main-text-color: $light-font-color;
+  --grey-text-color: $light-grey-color;
 }
 
 html[data-theme="dark"] {
   --link-color: rgb( 100, 210, 255);
   --main-background-color: rgb(80,80,80);
-  --main-text-color: rgb(247, 247, 247);
+  --main-text-color: $dark-font-color;
+  --grey-text-color: $dark-grey-color;
 }
 
 
@@ -21,7 +23,6 @@ html[data-theme="dark"] {
     html[data-theme="light"] {
 		  --link-color: rgb(0, 112, 201);
     	--main-background-color: rgb(255,255,255);
-  	 --main-text-color: $light-font-colour;
+  	 --main-text-color: $light-font-color;
   }
 }
-
