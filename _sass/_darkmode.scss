@@ -6,7 +6,7 @@ html, html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --link-color: rgb( 100, 210, 255);
-  --main-background-color: rgb(100,100,100);
+  --main-background-color: rgb(80,80,80);
   --main-text-color: rgb(47, 247, 247);
 }
 
@@ -14,7 +14,7 @@ html[data-theme="dark"] {
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
       --link-color: rgb( 100, 210, 255);
-    	--main-background-color: rgb(100,100,100);
+    	--main-background-color: rgb(80,80,80);
     	--main-text-color: rgb(47, 247, 247);
     }
 
