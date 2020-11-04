@@ -5,13 +5,14 @@
 {% include header.html %}
 	<main>
 		<article>
+			<a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
 			{{ content }}
 		</article>
 	{% include footer.html %}
+	<script src="/scripts/mode-switcher.js"></script>
 	</main>
 {% if jekyll.environment == 'production' %}
 {% include google_analytics.html %}
 {% endif %}
-<script src="/scripts/mode-switcher.js"></script>
 </body>
 </html>

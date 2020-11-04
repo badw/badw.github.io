@@ -1,6 +1,11 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
+@import 
+	"base",
+  "layout",
+  "syntax-highlighting"
+
 html, html[data-theme="light"] {
 	--link-color: rgb(0, 112, 201);
   --main-background-color: hsl(0, 0%, 90%);
@@ -28,7 +33,3 @@ html[data-theme="dark"] {
   }
 }
 
-@import 
-	"base",
-  "layout",
-  "syntax-highlighting"
