@@ -3,7 +3,7 @@ layout: default
 order: 1
 ---
 
-<center><img src="./assets/profile-2.png" width="400" height="400" /></center>
+<center><img src="./assets/profile-2.png" width="300" height="300" /></center>
 
 
 ## About
