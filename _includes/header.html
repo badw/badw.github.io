@@ -7,7 +7,7 @@
 				{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %} {% endfor %}			
-
+	                        <li><a href="{{ "https://www.ntnu.edu/about" }}">NTNU</a></li>
 			</ul>
 			</li>
 			</ul>
@@ -18,7 +18,6 @@
 <header>
 	<center>
 	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
-	<h1><a href="{{ "https://www.ntnu.edu/about" }}">NTNU</a></h1>
 	<h3>{{ site.description }}</h3>
 	</center>
 </header>
