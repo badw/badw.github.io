@@ -6,7 +6,7 @@ order: 4
 
 ### Publications
 
-In Progress
+this is the publications page 
 
 
 
