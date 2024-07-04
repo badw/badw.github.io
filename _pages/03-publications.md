@@ -8,7 +8,7 @@ order: 4
 
 
 
-32. *Doping Implications of Li-ion Solid State Electrolyte Li$_7$La$_3$Zr$_2$O$_12$*\
+32 *Doping Implications of Li-ion Solid State Electrolyte Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>*\
 K. Eggestad, S. M. Selbach, and **B.A.D. Williamson**, *J. Mater. Chem.
 A*, Advance Article, (2024)\
 DOI: [10.1039/D4TA01487A](https://doi.org/10.1039/D4TA01487A)\
@@ -28,15 +28,15 @@ N. S. Løndal; **B.A.D. Williamson**; J. Walker, M.-A. Einarsrud, T.
 Grande. *Phys. Chem. Chem. Phys.* , 26, 3350-3366 (2024)\
 DOI: [10.1039/D3CP05666J](https://doi.org/10.1039/D3CP05666J)
 
-29. *Oxygen absorption in nanocrystalline h-RMnO$_3$ (R=Y, Ho, Dy) and the
+29. *Oxygen absorption in nanocrystalline h-RMnO<sub>3</sub> (R=Y, Ho, Dy) and the
 effect of Ti donor doping*\
 F. Danmo; **B.A.D. Williamson**; D. Småbråten, N. Gaukås, E.R. Østli, T.
 Grande; J. Glaum; S. Selbach; *Chem. Mater* , 34, 15,5764-5776 (2023)\
 DOI:
 [10.1021/acs.chemmater.3c00189](https://doi.org/10.1021/acs.chemmater.3c00189)
 
-28. *Multi‐Phase Sputtered TiO$_2$‐Induced Current--Voltage Distortion in
-Sb$_2$Se$_3$ Solar Cells*\
+28. *Multi‐Phase Sputtered TiO<sub>2</sub>‐Induced Current--Voltage Distortion in
+Sb<sub>2</sub>Se<sub>3</sub> Solar Cells*\
 C.H. Don, T.P. Shalvey, M.J. Smiles, L. Thomas, L.J. Phillips, T.D.C.
 Hobson, H. Finch, L.A.H. Jones, J.E.N. Swallow, N. Fleck, C. Markwell,
 P.K. Thakur, T.-L. Lee, D. Biswas, L. Bowen, **B.A.D. Williamson**, D.O.
@@ -54,7 +54,7 @@ J. Varley, K. A. Persson, M. Asta, G. Hautier; *npj Comp. Mater.* , 9,
 DOI:
 [10.17188/mpcontribs/1907859](https://doi.org/10.17188/mpcontribs/1907859)
 
-26. *Tuning the Thermoelectric Performance of CaMnO$_3$-based ceramics by
+26. *Tuning the Thermoelectric Performance of CaMnO<sub>3</sub>-based ceramics by
 controlled exsolution and microstructuring*\
 N. Kanas, **B.A.D. Willamson**, F. Steinbach, R. Hinterding, M-A.
 Einarsrud, S.M. Selbach, A. Feldhoff and K. Wiik; *ACS Appl. Energy
