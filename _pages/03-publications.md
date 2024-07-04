@@ -8,7 +8,7 @@ order: 4
 
 
 
-32. *Doping Implications of Li-ion Solid State Electrolyte*\
+32. *Doping Implications of Li-ion Solid State Electrolyte Li$_7$La$_3$Zr$_2$O$_12$*\
 K. Eggestad, S. M. Selbach, and **B.A.D. Williamson**, *J. Mater. Chem.
 A*, Advance Article, (2024)\
 DOI: [10.1039/D4TA01487A](https://doi.org/10.1039/D4TA01487A)\
@@ -22,8 +22,8 @@ Grande. *J. Euro. Ceram. Soc.*, 44, 6, 3723-3733 (2024)\
 DOI:
 [10.1016/j.jeurceramsoc.2024.01.005](https://doi.org/10.1016/j.jeurceramsoc.2024.01.005)
 
-30. *The effect of cation size on structure and properties of Ba-based
-tetragonal tungsten bronzes (M = Na, K or Rb) and (M = Ca or Sr)*\
+30. *The effect of cation size on structure and properties of Ba-based 
+tetragonal tungsten bronzes Ba4M2Nb10O30 (M = Na, K or Rb) and Ba4M2Nb8Ti2O30 (M = Ca or Sr)*\
 N. S. Løndal; **B.A.D. Williamson**; J. Walker, M.-A. Einarsrud, T.
 Grande. *Phys. Chem. Chem. Phys.* , 26, 3350-3366 (2024)\
 DOI: [10.1039/D3CP05666J](https://doi.org/10.1039/D3CP05666J)
@@ -71,7 +71,7 @@ XXX, 3807--3816, (2022)\
 DOI:
 [10.1021/acsenergylett.2c01961](https://doi.org/10.1021/acsenergylett.2c01961)
 
-24. *Mesophase transition in \[\]\[\] and \[\]\[\] ferroic plastic
+24. *Mesophase transition in \[(C2H5)4N\]\[FeBrCl3\] and \[(CH3)4N\]\[FeBrCl3\] ferroic plastic
 crystals*\
 J. Walker, K. P. Marshall, **B.A.D. Willamson**, J.S. Beceiro, N. S.
 Løndal, S. M. Selbach, S. C. Garcia, D. Chernyshov, M-A. Einarsrud;
@@ -81,20 +81,20 @@ DOI:
 
 23. *Investigation of factors affecting the stability of compounds formed by
 isovalent substitution in layered oxychalcogenides, leading to
-identification of , , and*\
+identification of Ba3Sc2O5Cu2Se2, Ba3Y2O5Cu2S2, Ba3Sc2O5Ag2Se2 and Ba3 In2 O5 Ag2 Se2*\
 G. J. Limburn, D. W. Davies, N. Langridge, Z. Malik, **B. A. D.
 Williamson**, D. O. Scanlon, and G. Hyett; *J. Mater. Chem. C*, 10,
 3784-3795, (2022)\
 DOI: [10.1039/D1TC05051F](https://doi.org/10.1039/D1TC05051F)
 
 22. *Ligand Field-Induced Exotic Dopant for Infrared Transparent Electrode:
-W in Rutile*\
+W in Rutile SnO2*\
 M. Fukumoto, Y. Hirose, **B.A.D. Williamson**, S. Nakao, K. Kimura, K.
 Hayashi, Y. Sugisawa, D. Sekiba, D.O. Scanlon and T. Hasegawa; *Adv.
 Func. Mater.*, 2110832, (2021)\
 DOI: [10.1002/adfm.202110832](https://doi.org/10.1002/adfm.202110832)
 
-21. *: A Promising n-Type Thermoelectric Oxide with the Crystal Structure*\
+21. *: A Promising n-Type Thermoelectric Oxide with the PbSb2O6 Crystal Structure*\
 K.B. Spooner, A.M. Ganose, W.W.W.Leung, J.Buckeridge, **B.A.D.
 Williamson**, R.G. Palgrave, and D.O. Scanlon, *Chem. Mater.*,
 *https://pubs.acs.org/doi/10.1021/acs.jpcc.0c11592pted*, 33, 7441,
@@ -103,7 +103,7 @@ DOI:
 [10.1021/acs.chemmater.1c02164](https://pubs.acs.org/doi/10.1021/acs.chemmater.1c02164)
 
 20. *Experimental and theoretical study of the electronic structures of
-lanthanide indium perovskites*\
+lanthanide indium perovskites LnInO3*\
 P. Hartley, K.H.L. Zhang, M.V. Hohmann, L.F.J. Piper, D.J. Morgan, R.G.
 Edgell, D.O. Scanlon, **B.A.D. Williamson**, and A. Regoutz; *J. Phys.
 Chem. C*, 125, 6387, (2021)\
@@ -111,7 +111,7 @@ DOI:
 [10.1021/acs.jpcc.0c11592](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c11592)
 
 19. *Photocatalytic, Structural and Optical Properties of Mixed Anion Solid
-Solutions and*\
+Solutions Ba3Sc2–xInxCu2S2 and Ba3In2O5Cu2S2 – ySey*\
 G. Limburn, M. Stephens, **B.A.D. Williamson**, A. Iborra-Torres, D.O.
 Scanlon and G. Hyett; *J. Mater. Chem. A*, 8, 19887-19897 (2020)\
 DOI: [10.1039/D0TA06629J](https://doi.org/10.1039/D0TA06629J)
@@ -133,7 +133,7 @@ M. Einhorn, **B.A.D. Williamson** and D.O. Scanlon; *J. Mater. Chem. A*,
 8, 7914-7924 (2020)\
 DOI: [10.1039/D0TA00690D](https://doi.org/10.1039/D0TA00690D)
 
-16. *Resonant Ta Doping for Enhanced Mobility in Transparent Conducting*\
+16. *Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO2*\
 **B.A.D. Williamson**, T.J. Featherstone, S. Sathasivam, J.E.N Swallow,
 H. Shiel, L.A.H. Jones, M.J. Smiles, A. Regoutz, T-L. Lee, X. Xia, C.
 Blackman, P.K. Thakur, C.J. Carmalt, I.P. Parkin, T.D. Veal and D.O.
@@ -144,7 +144,7 @@ DOI:
 cover](https://pubs.acs.org/pb-assets/images/_journalCovers/cmatex/cmatex_v032i005-3.jpg?0.9406054396737598)]
 
 15. *Enhanced Photocatalytic and Antibacterial Ability of Cu-doped Anatase
-Thin Films: Theory and Experiment*\
+TiO2 Thin Films: Theory and Experiment*\
 A.M. Alotaibi, **B.A.D. Williamson**, S. Sathasivam, A. Kafizas, M.
 Alqahtani, C. Sotelo-Vazquez, J. Buckeridge, J. Wu, S.P. Nair, D.O.
 Scanlon and I.P. Parkin; *ACS Appl. Mater. Interfaces* just accepted
@@ -153,7 +153,7 @@ DOI:
 [10.1021/acsami.9b22056](https://pubs.acs.org/doi/abs/10.1021/acsami.9b22056)
 
 14. *Resonant Doping for High Mobility Transparent Conductors: The Case of
-Mo-doped*\
+Mo-doped In2O3*\
 J.E.N. Swallow, **B.A.D. Williamson**, S. Sathasivam, M. Birkett, T.J.
 Featherstone, P.A.E. Murgatroyd, H.J. Edwards, Z.W. Lebens-Higgins, D.A.
 Duncan, M. Farnworth, P. Warren, N. Peng, T-L. Lee, L.F.J. Piper, A.
@@ -162,7 +162,7 @@ Veal; *Mater. Horiz.*, 7, 236-243 (2020)\
 DOI:
 [10.1039/C9MH01014A](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract)
 
-13. *Dispelling the Myth of Passivated Codoping in*\
+13. *Dispelling the Myth of Passivated Codoping in TiO2*\
 **B.A.D. Williamson**, J. Buckeridge, N.P. Chadwick, S. Sathasivam, C.J.
 Carmalt, I.P. Parkin and D.O. Scanlon; *Chem. Mater.*, 31 (7), 2577-2589
 (2019)\
@@ -178,7 +178,7 @@ W. Luo, D.O. Scanlon, J. Tang, I.P. Parkin; *ACS Omega*, 4 (1),
 DOI:
 [10.1021/acsomega.8b02444](https://pubs.acs.org/doi/abs/10.1021/acsomega.8b02444)
 
-11. *Phosphorus Doped Thin Films for Transparent Conducting Oxide
+11. *Phosphorus Doped SnO2 Thin Films for Transparent Conducting Oxide
 Applications: Synthesis, Optoelectronic Properties and Computational
 Models*\
 M.J. Powell, **B.A.D. Williamson**, S-Y. Baek, J. Manzi, D. Potter, D.O.
@@ -201,7 +201,7 @@ DOI:
 [10.1063/1.5039829](https://aip.scitation.org/doi/abs/10.1063/1.5039829)
 
 8. *Chemical Vapor Deposition of Photocatalytically Active Pure Brookite
-Thin Films*\
+TiO2 Thin Films*\
 A.M. Alotaibi, S. Sathasivam , **B.A.D. Williamson**, A. Kafizas , C.
 Sotelo-Vazquez, A. Taylor, D.O. Scanlon, and I.P. Parkin; *Chem.
 Mater.*, 30 (4), 1353-1361 (2018)\
@@ -216,7 +216,7 @@ I.P. Parkin; *J. Phys. Chem. C*, 122 (1), 714-726 (2018)\
 DOI:
 [10.1021/acs.jpcc.7b11142](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b11142)
 
-6. *Self-Compensation in Transparent Conducting F-Doped*\
+6. *Self-Compensation in Transparent Conducting F-Doped SnO2*\
 J.E.N. Swallow, **B.A.D. Williamson**, T.J. Whittles, M. Birkett, T.J.
 Featherstone, N. Peng, A. Abbott, M. Farnworth, K.J. Cheetham, P.
 Warren, D.O. Scanlon, V.R. Dhanak, T.D.Veal; *Adv. Funct. Mater.*,
@@ -224,7 +224,7 @@ Warren, D.O. Scanlon, V.R. Dhanak, T.D.Veal; *Adv. Funct. Mater.*,
 DOI:
 [10.1002/adfm.201701900](http://onlinelibrary.wiley.com/doi/10.1002/adfm.201701900/abstract)
 
-5. *Chemical Vapor Deposition Synthesis and Optical Properties of Thin
+5. *Chemical Vapor Deposition Synthesis and Optical Properties of Nb2O5 Thin
 Films with Hybrid Functional Theoretical Insight into Band Structure and
 Band Gaps*\
 S. Sathasivam, **B.A.D. Williamson**, S.A. Al Thabaiti, A.Y. Obaid, S.N.
@@ -233,7 +233,7 @@ Mater. Interfaces*, 9 (21), 18031-18038 (2017)\
 DOI:
 [10.1021/acsami.7b00907](http://pubs.acs.org/doi/abs/10.1021/acsami.7b00907)
 
-4. *Computational and Experimental Study of Thin Films*\
+4. *Computational and Experimental Study of Ta2O5 Thin Films*\
 S. Sathasivam, **B.A.D. Williamson**, A. Kafizas, S.A. Althabaiti, A.Y.
 Obaid, S.N. Basahel, D.O. Scanlon, C.J. Carmalt, I.P Parkin; *J. Phys.
 Chem. C*, 121 (1), 202-210 (2017)\
