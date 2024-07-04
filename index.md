@@ -3,7 +3,7 @@ layout: default
 order: 1
 ---
 
-<center><img src="./assets/profile.png" width="auto" height="200" /></center>
+<center><img src="./assets/profile.png" width="auto" height="300" /></center>
 
 
 ## About
@@ -11,6 +11,7 @@ I am a researcher at the Norwegian University of Science and Technology (NTNU) i
 
 ## Education and Training
  - **Scientic Researcher** *Computational Materials*, NTNU, Trondheim (Norway), 2019 - Present 
+ *Advisors* Prof. Sverre M. Selbach & Prof. Tor Grande
  - **PDRA** *Computational Materials Design*, UCL, 2018 - 2019
  - **MPhil/PhD** *Chemistry*, UCL, 2014 – 2018 - *Supervisor:* Prof. David Scanlon
  - **MSci (1st Class Hons)** *Chemistry*, UCL, 2010 – 2014
