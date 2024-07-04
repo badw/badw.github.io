@@ -16,15 +16,3 @@ I am a researcher at the Norwegian University of Science and Technology (NTNU) i
  - **MPhil/PhD** *Chemistry*, UCL, 2014 – 2018 
  *Supervisor:* Prof. David Scanlon
  - **MSci (1st Class Hons)** *Chemistry*, UCL, 2010 – 2014
-
-## Links
-
- - [Curriculum Vitae (CV)](/assets/badw-cv.pdf)
-
- - [Publications (Google Scholar)](https://scholar.google.co.uk/citations?user=c34AgtMAAAAJ&hl=en)
-
- - [Functional Materials and Materials Chemistry Research Group (FACET)](https://www.ntnu.edu/ima/research/facet)
-
-_Previously:_
-
- - [Scanlon Materials Theory Group (SMTG)](http://www.davidscanlon.com)
