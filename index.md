@@ -13,7 +13,8 @@ I am a researcher at the Norwegian University of Science and Technology (NTNU) i
  - **Scientic Researcher** *Computational Materials*, NTNU, Trondheim (Norway), 2019 - Present 
  *Advisors* Prof. Sverre M. Selbach & Prof. Tor Grande
  - **PDRA** *Computational Materials Design*, UCL, 2018 - 2019
- - **MPhil/PhD** *Chemistry*, UCL, 2014 – 2018 - *Supervisor:* Prof. David Scanlon
+ - **MPhil/PhD** *Chemistry*, UCL, 2014 – 2018 
+ *Supervisor:* Prof. David Scanlon
  - **MSci (1st Class Hons)** *Chemistry*, UCL, 2010 – 2014
 
 ## Links
