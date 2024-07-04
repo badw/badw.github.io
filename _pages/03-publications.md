@@ -4,7 +4,9 @@ permalink: /publications/
 order: 4
 ---
 
-### In Progress
+### Publications
+
+In Progress
 
 
 
