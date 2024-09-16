@@ -10,7 +10,7 @@ order: 1
 
 33: *Mobile Intrinsic Point Defects for Conductive Neutral Domain Walls in LiNbO<sub>3</sub>*\
 K. Eggestad, **B.A.D. Williamson**, D. Meier, S. M. Selbach, and , *J. Mater. Chem.
-C*, Accepted Manuscript, (2024)\
+C*, Accepted Manuscript, (2024)
 DOI: [10.1039/D4TC02856B](https://doi.org/10.1039/D4TC02856B)\
 
 32: *Doping Implications of Li-ion Solid State Electrolyte Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>*\
