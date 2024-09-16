@@ -1,16 +1,21 @@
 ---
 layout: default
 permalink: /publications/
-order: 4
+order: 1
 ---
 
 ### Publications
 
+#### 2024:
 
+33: *Mobile Intrinsic Point Defects for Conductive Neutral Domain Walls in LiNbO<sub>3</sub>*\
+K. Eggestad, **B.A.D. Williamson**, D. Meier, S. M. Selbach, and , *J. Mater. Chem.
+C*, Accepted Manuscript, (2024)\
+DOI: [10.1039/D4TC02856B](https://doi.org/10.1039/D4TC02856B)\
 
 32: *Doping Implications of Li-ion Solid State Electrolyte Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>*\
 K. Eggestad, S. M. Selbach, and **B.A.D. Williamson**, *J. Mater. Chem.
-A*, Advance Article, (2024)\
+A*, 12, 15666-15675, (2024)\
 DOI: [10.1039/D4TA01487A](https://doi.org/10.1039/D4TA01487A)\
 [[Work selected as one of the Journal of Materials Chemistry A HOT
 Papers
@@ -27,6 +32,8 @@ tetragonal tungsten bronzes Ba<sub>4</sub>M<sub>2</sub>Nb<sub>10</sub>O<sub>30</
 N. S. Løndal; **B.A.D. Williamson**; J. Walker, M.-A. Einarsrud, T.
 Grande. *Phys. Chem. Chem. Phys.* , 26, 3350-3366 (2024)\
 DOI: [10.1039/D3CP05666J](https://doi.org/10.1039/D3CP05666J)
+
+#### 2023:
 
 29: *Oxygen absorption in nanocrystalline h-RMnO<sub>3</sub> (R=Y, Ho, Dy) and the
 effect of Ti donor doping*\
@@ -53,6 +60,8 @@ J. Varley, K. A. Persson, M. Asta, G. Hautier; *npj Comp. Mater.* , 9,
 1, 72 (2023)\
 DOI:
 [10.17188/mpcontribs/1907859](https://doi.org/10.17188/mpcontribs/1907859)
+
+#### 2022:
 
 26: *Tuning the Thermoelectric Performance of CaMnO<sub>3</sub>-based ceramics by
 controlled exsolution and microstructuring*\
@@ -87,6 +96,8 @@ Williamson**, D. O. Scanlon, and G. Hyett; *J. Mater. Chem. C*, 10,
 3784-3795, (2022)\
 DOI: [10.1039/D1TC05051F](https://doi.org/10.1039/D1TC05051F)
 
+#### 2021:
+
 22: *Ligand Field-Induced Exotic Dopant for Infrared Transparent Electrode:
 W in Rutile SnO<sub>2</sub>*\
 M. Fukumoto, Y. Hirose, **B.A.D. Williamson**, S. Nakao, K. Kimura, K.
@@ -109,6 +120,8 @@ Edgell, D.O. Scanlon, **B.A.D. Williamson**, and A. Regoutz; *J. Phys.
 Chem. C*, 125, 6387, (2021)\
 DOI:
 [10.1021/acs.jpcc.0c11592](https://pubs.acs.org/doi/10.1021/acs.jpcc.0c11592)
+
+#### 2020:
 
 19: *Photocatalytic, Structural and Optical Properties of Mixed Anion Solid
 Solutions Ba<sub>3</sub>Sc<sub>2–x</sub>In<sub>x</sub>Cu<sub>2</sub>S<sub>2</sub> and Ba<sub>3</sub>In<sub>2</sub>O<sub>5</sub>Cu<sub>2</sub>S<sub>2 – y</sub>Se<sub>y</sub>*\
@@ -162,6 +175,8 @@ Veal; *Mater. Horiz.*, 7, 236-243 (2020)\
 DOI:
 [10.1039/C9MH01014A](https://pubs.rsc.org/en/content/articlelanding/2019/mh/c9mh01014a#!divAbstract)
 
+#### 2019:
+
 13: *Dispelling the Myth of Passivated Codoping in TiO<sub>2</sub>*\
 **B.A.D. Williamson**, J. Buckeridge, N.P. Chadwick, S. Sathasivam, C.J.
 Carmalt, I.P. Parkin and D.O. Scanlon; *Chem. Mater.*, 31 (7), 2577-2589
@@ -177,6 +192,8 @@ W. Luo, D.O. Scanlon, J. Tang, I.P. Parkin; *ACS Omega*, 4 (1),
 1449-1459 (2019)\
 DOI:
 [10.1021/acsomega.8b02444](https://pubs.acs.org/doi/abs/10.1021/acsomega.8b02444)
+
+#### 2018:
 
 11: *Phosphorus Doped SnO<sub>2</sub> Thin Films for Transparent Conducting Oxide
 Applications: Synthesis, Optoelectronic Properties and Computational
@@ -215,6 +232,8 @@ Kafizas, N.D. Boscher, R. Quesada-Cabrera, D.O. Scanlon, C.J. Carmalt,
 I.P. Parkin; *J. Phys. Chem. C*, 122 (1), 714-726 (2018)\
 DOI:
 [10.1021/acs.jpcc.7b11142](http://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b11142)
+
+#### 2017:
 
 6: *Self-Compensation in Transparent Conducting F-Doped SnO<sub>2</sub>*\
 J.E.N. Swallow, **B.A.D. Williamson**, T.J. Whittles, M. Birkett, T.J.
@@ -255,6 +274,8 @@ DOI:
 [10.1021/acs.chemmater.6b03306](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b03306)\
 [[Work featured as part of the front
 cover](https://pubs.acs.org/pb-assets/images/_journalCovers/cmatex/cmatex_v029i006.jpg?0.8333471233826957)]
+
+#### 2016:
 
 1: *A Single-Source Precursor Approach to Solution Processed Indium
 Arsenide Thin Films*\
