@@ -6,11 +6,13 @@ order: 1
 
 ### Publications
 
-#### 2024:
+#### 2025:
 
 34: *Crystal Structure, Cation Occupation, and Phase Transitions in Ba<sub>>4</sub>(Li<sub>x</sub>Na<sub>1-x</sub>)<sub>2</sub>Nb<sub>10</sub>O<sub>30</sub> Tetragonal Tungsten Bronzes*\
 N. S. Løndal, **B.A.D. Williamson**, O.G. Grendal, J. Walker, M.-E. Einarsrud, and T. Grande, *Inorganic Chemistry*, Advance Article, (2024)
 DOI: [10.1021/acs.inorgchem.4c04461](https://doi.org/10.1021/acs.inorgchem.4c04461)
+
+#### 2024:
 
 33: *Mobile Intrinsic Point Defects for Conductive Neutral Domain Walls in LiNbO<sub>3</sub>*\
 K. Eggestad, **B.A.D. Williamson**, D. Meier, S. M. Selbach, *J. Mater. Chem.
