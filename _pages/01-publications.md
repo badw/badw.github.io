@@ -13,7 +13,7 @@ N. S. Løndal, **B.A.D. Williamson**, O.G. Grendal, J. Walker, M.-E. Einarsrud, 
 DOI: [10.1021/acs.inorgchem.4c04461](https://doi.org/10.1021/acs.inorgchem.4c04461)
 
 33: *Mobile Intrinsic Point Defects for Conductive Neutral Domain Walls in LiNbO<sub>3</sub>*\
-K. Eggestad, **B.A.D. Williamson**, D. Meier, S. M. Selbach, and , *J. Mater. Chem.
+K. Eggestad, **B.A.D. Williamson**, D. Meier, S. M. Selbach, *J. Mater. Chem.
 C*,  12, 17099-17107, (2024)
 DOI: [10.1039/D4TC02856B](https://doi.org/10.1039/D4TC02856B)
 
