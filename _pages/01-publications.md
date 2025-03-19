@@ -9,10 +9,10 @@ order: 1
 #### 2025:
 
 35: *Psudo-Lithium Vacancies in Hydrogen Rich Li<sub>3</sub>OCl*\
-**B.A.D. Williamson**, K. Eggestad, and S. M. Selbach, *J Mater. Chem. A*, 13, 8816-8824, (2025)
+**B.A.D. Williamson**, K. Eggestad, and S. M. Selbach, *J. Mater. Chem. A*, 13, 8816-8824, (2025)
 DOI: [10.1039/D4TA08352K](https://pubs.rsc.org/en/content/articlehtml/2025/ta/d4ta08352k)
 
-34: *Crystal Structure, Cation Occupation, and Phase Transitions in Ba<sub>>4</sub>(Li<sub>x</sub>Na<sub>1-x</sub>)<sub>2</sub>Nb<sub>10</sub>O<sub>30</sub> Tetragonal Tungsten Bronzes*\
+34: *Crystal Structure, Cation Occupation, and Phase Transitions in Ba<sub>4</sub>(Li<sub>x</sub>Na<sub>1-x</sub>)<sub>2</sub>Nb<sub>10</sub>O<sub>30</sub> Tetragonal Tungsten Bronzes*\
 N. S. Løndal, **B.A.D. Williamson**, O.G. Grendal, J. Walker, M.-E. Einarsrud, and T. Grande, *Inorganic Chemistry*, 64, 2, 1031-1040, (2025)
 DOI: [10.1021/acs.inorgchem.4c04461](https://doi.org/10.1021/acs.inorgchem.4c04461)
 
