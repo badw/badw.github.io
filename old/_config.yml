@@ -1,9 +1,0 @@
-title: Benjamin A. D. Williamson 
-description: Researcher in Materials Simulations
-email: benjamin.williamson@ntnu.no
-twitter_username: bad_williamson
-sass:
-        sass_dir: _sass
-include: ['_pages']
-kramdown:
- input: GFM
