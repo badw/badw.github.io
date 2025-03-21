@@ -4,3 +4,6 @@ title = 'website for Benjamin A. D. Williamson'
 params.description = 'personal website of Benjamin A. D. Williamson'
 params.author = "Benjamin A. D. Williamson" 
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
