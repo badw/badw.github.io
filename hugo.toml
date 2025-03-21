@@ -1,9 +1,10 @@
-baseURL = 'https://badw.github.io'
+baseURL = 'https://badw.github.io/'
 languageCode = 'en-gb'
 title = 'website for Benjamin A. D. Williamson'
-params.description = 'personal website of Benjamin A. D. Williamson'
-params.author = "Benjamin A. D. Williamson" 
+defaultContentLanguage = 'en'
+enableGitInfo = true
+timeout='5m'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+[caches.images]
+dir = ':cacheDir/images'
+maxAge = "1440h" # 60days
