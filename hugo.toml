@@ -1,3 +1,6 @@
 baseURL = 'https://badw.github.io'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'website for Benjamin A. D. Williamson'
+params.description = 'personal website of Benjamin A. D. Williamson'
+params.author = "Benjamin A. D. Williamson" 
+
