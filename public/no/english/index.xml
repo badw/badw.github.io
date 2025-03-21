@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min Blog</title>
+    <link>http://localhost:1313/no/english/</link>
+    <description>Recent content on Min Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no</language>
+    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/no/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cover Art</title>
+      <link>http://localhost:1313/no/english/cover_art/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/english/cover_art/</guid>
+      
+        <description>publication cover art</description>
+      
+    </item>
+    
+    <item>
+      <title>curriculum vitae</title>
+      <link>http://localhost:1313/no/english/cv/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/english/cv/</guid>
+      
+        <description>curriculum vitae for Benjamin A. D. Williamson</description>
+      
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/no/english/home/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/english/home/</guid>
+      
+        <description>curriculum vitae for Benjamin A. D. Williamson</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/no/english/publications/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/english/publications/</guid>
+      
+        <description>list of publications</description>
+      
+    </item>
+    
+    <item>
+      <title>Research Highlights</title>
+      <link>http://localhost:1313/no/english/research_highlights/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/english/research_highlights/</guid>
+      
+        <description>research highlights</description>
+      
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://localhost:1313/no/english/software/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/no/english/software/</guid>
+      
+        <description>list of software</description>
+      
+    </item>
+    
+  </channel>
+</rss>

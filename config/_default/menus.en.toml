@@ -1,0 +1,36 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/home/"
+
+  [[main]]
+  name = "Publications" 
+  identifier = "publications"
+  weight = 200
+  url = "/publications/"
+ 
+  [[main]]
+  name = "Research Highlights" 
+  identifier = "research_highlights"
+  weight = 300
+  url = "/research_highlights/"
+ 
+  [[main]]
+  name = "Cover Art" 
+  identifier = "cover_art"
+  weight = 400
+  url = "/cover_art/"
+ 
+  [[main]]
+  name = "CV" 
+  identifier = "cv"
+  weight = 500
+  url = "/cv/"
+ 
+  [[main]]
+  name = "Software" 
+  identifier = "software"
+  weight = 600
+  url = "/software/"
+ 
