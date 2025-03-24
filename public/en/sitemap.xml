@@ -28,19 +28,6 @@
                 href="http://localhost:1313/cv/"
                 />
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
-    <lastmod>2025-03-21T15:53:25+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/home/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/home/"
-                />
-  </url><url>
     <loc>http://localhost:1313/publications/</loc>
     <lastmod>2025-03-21T15:53:25+01:00</lastmod>
     <xhtml:link
@@ -80,6 +67,18 @@
                 href="http://localhost:1313/software/"
                 />
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-21T15:53:25+01:00</lastmod>
     <xhtml:link
@@ -91,18 +90,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/series/</loc>
