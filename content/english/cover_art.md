@@ -6,7 +6,7 @@ aliases = ["cover art"]
 author = "Benjamin A. D. Williamson"
 +++
 
-## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO2
+## Resonant Ta Doping for Enhanced Mobility in Transparent Conducting SnO<sub>2</sub>
 
 {{< figure src="/images/tato-cover.jpg" class="normal" >}}
 
@@ -20,7 +20,7 @@ author = "Benjamin A. D. Williamson"
 
 # Honourable Mentions (unpublished) 
 
-## Mobile Intrinsic Point Defects for Conductive Neutral Domain Walls in LiNbO3
+## Mobile Intrinsic Point Defects for Conductive Neutral Domain Walls in LiNbO<sub>3</sub>
 {{< figure src="/images/linbo3-cover.jpg" class="normal" >}}
 
 #### *Journal of Materials Chemistry C, **2024**, 12, pp 17099-17107* -- DOI: [10.1039/D4TC02856B](https://doi.org/10.1039/D4TC02856B)

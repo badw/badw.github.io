@@ -8,3 +8,7 @@ timeout='5m'
 [caches.images]
 dir = ':cacheDir/images'
 maxAge = "1440h" # 60days
+
+googlefonts = ["Droid Sans", "Fira Mono"]
+fontbody = 'Droid Sans'
+fontcode = 'Fira Mono'

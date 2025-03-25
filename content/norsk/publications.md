@@ -8,7 +8,11 @@ author = "Benjamin A. D. Williamson"
 
 #### 2025:
 
-35: *Psudo-Lithium Vacancies in Hydrogen Rich Li<sub>3</sub>OCl*\
+36: *Phase Evolution and Thermodynamics of Cubic Li<sub>6.25</sub>Al<sub>0.25</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> Studied by High-Temperature X-ray Diffraction*\
+Ø. Gullbrekken, K. Eggestad, M. Tsoutsouva, **B.A.D. Williamson**, D. Rettenwander, M.-A. Einarsrud, and S. M. Selbach, *Inorganic Chemistry*, ASAP, (2025)
+DOI: [10.1021/acs.inorgchem.4c03738](https://doi.org/10.1021/acs.inorgchem.4c03738)
+
+35: *Pseudo-Lithium Vacancies in Hydrogen Rich Li<sub>3</sub>OCl*\
 **B.A.D. Williamson**, K. Eggestad, and S. M. Selbach, *J. Mater. Chem. A*, 13, 8816-8824, (2025)
 DOI: [10.1039/D4TA08352K](https://pubs.rsc.org/en/content/articlehtml/2025/ta/d4ta08352k)
 

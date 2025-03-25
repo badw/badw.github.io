@@ -6,6 +6,27 @@ aliases = ["research highlights"]
 author = "Benjamin A. D. Williamson"
 +++
 
+## Pseudo-Lithium Vacancies in Hydrogen Rich Li3OCl?
+
+##### tags: solid state batteries, defects and doping, ionic conductivity, Hydrogen
+
+{{< figure src="/images/anti-perovskite-toc.png" class="normal" >}}
+
+The antiperovskite Li<sub>3</sub>OCl is reported as a superionic conductor, however, reproducibility has been poor due to its hygroscopic nature, suggesting that reports are in fact on Li<sub>3−x</sub>OH<sub>x</sub>Cl. Most experimental and computational studies in the literature focus on pure Li<sub>3</sub>OCl however, and do not take into account the role of hydrogen in the material. In this work we developed a full defect model of H-doped Li<sub>3</sub>OCl, showing that the nominal Schottky disorder diminishes with hydrogen incorporation. Additionally, H helps to facilitate Li-ion mobility in Li<sub>3</sub>OCl by firstly introducing rotatable OH species as well as forming H<sub>Li</sub> which relaxes off site to form what we define as a “pseudo-*V*<sub>Li</sub>” enhancing the ionic conductivity in line with experimentally observed values. Intentional hydrogen doping of hygroscopic materials constitute an underexplored strategy for enhancing ionic transport properties.
+
+#### *J. Mater. Chem. A. , **2025**  -- DOI: [10.1039/D4TA08352K](https://doi.org/10.1039/D4TA08352K)*
+
+
+## Doping Implications of Li Solid State Electrolyte Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub>?
+
+##### tags: solid state batteries, defects and doping, ionic conductivity
+
+{{< figure src="/images/llzo-toc.png" class="normal" >}}
+
+Solid-state electrolytes, like Li<sub>7</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> (LLZO), can enable safer, more energy dense and longer lasting batteries. In this paper we investigated the effect of doping in LLZO with Al, Ga, Nb, Ta, and Y by hybrid density functional theory calculations and a full defect model. The site preferences of Al, Ga, Nb, and Ta result in donor defects that favour more Li vacancies and thus a more disordered Li substructure. This also implies stabilisation of the more ionic conducting cubic phase at the expense of the tetragonal, as seen experimentally. In addition, these calculations indicate that the effect of the dopants on the sintering process is even more important than the ability to induce more ionic charge carriers. Differences in Li vacancy formation energies also suggest a new possible explanation for the two orders of magnitude increase in ionic conductivity upon stabilising the cubic phase.
+
+#### *J. Mater. Chem. A. , **2024**  -- DOI: [10.1039/D4A01487A](https://doi.org/10.1039/D4TA01487A)*
+
 ## Computationally Driven Discovery of Layered Quinary Oxychalcogenides: Potential p-Type Transparent Conductors?
 
 ##### tags: p-type TCO, photocatalyst, materials prediction
