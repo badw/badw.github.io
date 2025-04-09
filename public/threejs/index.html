@@ -11,7 +11,7 @@
   <title>
     
       
-        curriculum vitae |
+        threejs |
       
 
   </title>
@@ -20,7 +20,7 @@
   <meta name="author" content="" />
   <meta
     name="description"
-    content="curriculum vitae for Benjamin A. D. Williamson"
+    content="threejs"
   />
   
   
@@ -82,7 +82,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
 
-  <link rel="canonical" href="http://localhost:1313/cv/" />
+  <link rel="canonical" href="http://localhost:1313/threejs/" />
 
   
   
@@ -115,20 +115,20 @@
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="http://localhost:1313/images/site-feature-image.png">
-  <meta name="twitter:title" content="curriculum vitae">
-  <meta name="twitter:description" content="curriculum vitae for Benjamin A. D. Williamson">
+  <meta name="twitter:title" content="threejs">
+  <meta name="twitter:description" content="threejs">
 
 
 
   
-  <meta property="og:url" content="http://localhost:1313/cv/">
+  <meta property="og:url" content="http://localhost:1313/threejs/">
   <meta property="og:site_name" content="My blog">
-  <meta property="og:title" content="curriculum vitae">
-  <meta property="og:description" content="curriculum vitae for Benjamin A. D. Williamson">
+  <meta property="og:title" content="threejs">
+  <meta property="og:description" content="threejs">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:published_time" content="2025-03-21T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-03-21T15:53:25+01:00">
+    <meta property="article:modified_time" content="2025-03-21T00:00:00+00:00">
     <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png">
 
 
@@ -142,11 +142,11 @@
         "@context": "http://schema.org",
         "@type": "BlogPosting",
         "articleSection": "",
-        "name": "curriculum vitae",
-        "headline": "curriculum vitae",
+        "name": "threejs",
+        "headline": "threejs",
         "alternativeHeadline": "",
         "description": "
-      curriculum vitae for Benjamin A. D. Williamson
+      threejs
 
 
     ",
@@ -154,7 +154,7 @@
         "isFamilyFriendly": "true",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "http:\/\/localhost:1313\/cv\/"
+            "@id": "http:\/\/localhost:1313\/threejs\/"
         },
         "author" : {
             "@type": "Person",
@@ -175,7 +175,7 @@
         "copyrightYear" : "2025",
         "dateCreated": "2025-03-21T00:00:00.00Z",
         "datePublished": "2025-03-21T00:00:00.00Z",
-        "dateModified": "2025-03-21T15:53:25.00Z",
+        "dateModified": "2025-03-21T00:00:00.00Z",
         "publisher":{
             "@type":"Organization",
             "name": "Benjamin A. D. Williamson",
@@ -197,7 +197,7 @@
       ]
 
     ,
-        "url" : "http:\/\/localhost:1313\/cv\/",
+        "url" : "http:\/\/localhost:1313\/threejs\/",
         "wordCount" : "0",
         "genre" : [ ],
         "keywords" : [ ]
@@ -361,8 +361,6 @@
             
             <a
               
-                class="nav__link--active"
-              
               href="/cv/"
               
               title=""
@@ -393,10 +391,12 @@
             
             <a
               
-              href="/supervision/"
+                class="nav__link--active"
+              
+              href="/threejs/"
               
               title=""
-              >Supervision</a
+              >Threejs</a
             >
           </li>
         
@@ -404,29 +404,6 @@
       
     </ul>
     <ul class="nav__list nav__list--end">
-      
-        <li class="nav__list-item">
-          <div class="optionswitch">
-            <input class="optionswitch__picker" type="checkbox" id="languagepicker" hidden />
-            <label class="optionswitch__label" for="languagepicker"
-              >EN <i class="fa fa-angle-down" aria-hidden="true"></i
-            ></label>
-            <div class="optionswitch__triangle"></div>
-            <ul class="optionswitch__list">
-              
-                <li class="optionswitch__list-item">
-                  <a href="/no/cv/" title="No"
-                    ><span
-                      
-                      aria-label="No"
-                      >No</span
-                    >
-                  </a>
-                </li>
-              
-            </ul>
-          </div>
-        </li>
       
       
         <li class="nav__list-item">
@@ -449,9 +426,29 @@
     
     <div class="post__content">
       
-        <h1>Curriculum Vitae</h1>
+        <h1>Threejs</h1>
       
-      <embed src= "/badw-cv.pdf" width= "100%" height= "1000px" type="application/pdf" >
+      
+
+
+
+
+
+
+<div id="threejs-container-cube"></div>
+
+
+<script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+    }
+  }
+</script>
+
+
+<script type="module" src="/threejs/cube.js"></script>
 
 </div>
     <div class="post__footer">

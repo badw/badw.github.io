@@ -29,3 +29,10 @@
   weight = 500
   url = "/software/"
  
+  [[main]]
+  name = "Supervision" 
+  identifier = "supervision"
+  weight = 600
+  url = "/supervision/"
+
+

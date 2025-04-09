@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/supervision/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cover_art/</loc>
-    <lastmod>2025-03-21T15:53:25+01:00</lastmod>
+    <lastmod>2025-03-25T10:36:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -29,7 +32,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/publications/</loc>
-    <lastmod>2025-03-21T15:53:25+01:00</lastmod>
+    <lastmod>2025-03-25T10:36:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -42,7 +45,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/research_highlights/</loc>
-    <lastmod>2025-03-21T15:53:25+01:00</lastmod>
+    <lastmod>2025-03-25T10:36:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"

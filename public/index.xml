@@ -7,6 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>supervision</title>
+      <link>http://localhost:1313/supervision/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/supervision/</guid>
+      
+        <description>supervision</description>
+      
+    </item>
+    
+    <item>
       <title>Cover Art</title>
       <link>http://localhost:1313/cover_art/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
