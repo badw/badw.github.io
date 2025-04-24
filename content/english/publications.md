@@ -8,8 +8,12 @@ author = "Benjamin A. D. Williamson"
 
 #### 2025:
 
+37: *Quantifying Emptiness: On the Size of A-Site Vacancies in Tetragonal Tungsten Bronzes*\
+	C. R. Zeiger, K. Eggestad, J. Walker, M.-A. Einarsrud, **B.A.D. Williamson**, and T. Grande *Chemistry of Materials*, ASAP, (2025)
+	DOI: [10.1021/acs.chemmater.4c03438](https://doi.org/10.1021/acs.chemmater.4c03438)
+
 36: *Phase Evolution and Thermodynamics of Cubic Li<sub>6.25</sub>Al<sub>0.25</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> Studied by High-Temperature X-ray Diffraction*\
-Ø. Gullbrekken, K. Eggestad, M. Tsoutsouva, **B.A.D. Williamson**, D. Rettenwander, M.-A. Einarsrud, and S. M. Selbach, *Inorganic Chemistry*, ASAP, (2025)
+Ø. Gullbrekken, K. Eggestad, M. Tsoutsouva, **B.A.D. Williamson**, D. Rettenwander, M.-A. Einarsrud, and S. M. Selbach, *Inorganic Chemistry*, 64,12,5866-5865, (2025)
 DOI: [10.1021/acs.inorgchem.4c03738](https://doi.org/10.1021/acs.inorgchem.4c03738)
 
 35: *Pseudo-Lithium Vacancies in Hydrogen Rich Li<sub>3</sub>OCl*\
