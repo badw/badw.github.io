@@ -13,7 +13,7 @@ author = "Benjamin A. D. Williamson"
 `reactit` is a code for generating all possible reactions between species in an efficient manner
 {{< figure src="/images/reactit.png" class="normal" width=200 >}}
 
-####  - `ARCS` Automated Reactions for CO<sub>2</sub> Storage
+####  - `arcs` Automated Reactions for CO<sub>2</sub> Storage
 
 [https://github.com/badw/arcs.git](https://github.com/badw/arcs.git)
 
@@ -23,4 +23,13 @@ This project was in collaboration with Equinor, Total Energies, and Shell.
 A modified and forked version is provided at [https://github.com/equinor/arcs](https://github.com/equinor/arcs)
 
 {{< figure src="/images/arcs.png" class="normal" width=200 >}}
+
+####  - `puppy` Phonon Unfolding and Projections 
+
+[https://github.com/badw/puppy.git](https://github.com/badw/puppy.git)
+
+`puppy` is a code for unfolding defect phonons and projecting chosen eigendisplacements onto phonon dispersion curves.
+
+
+{{< figure src="/images/puppy_logo.png" class="normal" width=200 >}}
 
