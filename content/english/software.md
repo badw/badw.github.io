@@ -24,6 +24,14 @@ A modified and forked version is provided at [https://github.com/equinor/arcs](h
 
 {{< figure src="/images/arcs.png" class="normal" width=200 >}}
 
+####  - `SMILESbox` Generating Simulation Cells from SMILES Strings
+
+[https://github.com/badw/smilesbox.git](https://github.com/badw/smilesbox.git)
+
+`SMILESbox` is a code for generating simple simulation boxes from organic SMILES strings 
+
+{{< figure src="/images/smilesbox_logo.png" class="normal" width=200 >}}
+
 ####  - `puppy` Phonon Unfolding and Projections 
 
 [https://github.com/badw/puppy.git](https://github.com/badw/puppy.git)
