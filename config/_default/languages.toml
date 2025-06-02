@@ -4,9 +4,9 @@ weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-[no]
-title = "Min Blog"
-weight = 2
-LanguageName = "No"
-contentDir = "content/norsk" 
-[no.params]
+#[no]
+#title = "Min Blog"
+#weight = 2
+#LanguageName = "No"
+#contentDir = "content/norsk" 
+#[no.params]
