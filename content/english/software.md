@@ -48,5 +48,5 @@ A modified and forked version is provided at [https://github.com/equinor/arcs](h
 `beavermap` is a code for multiprocessing and basic analysis and plotting of ESRF synchrotron data. 
 
 
-{{< figure src="/images/beavermap_logo.png" class="normal" width=200 >}}
+{{< figure src="/images/beavermap_logo.jpeg" class="normal" width=200 >}}
 
