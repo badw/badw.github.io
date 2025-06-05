@@ -41,3 +41,12 @@ A modified and forked version is provided at [https://github.com/equinor/arcs](h
 
 {{< figure src="/images/puppy_logo.png" class="normal" width=200 >}}
 
+####  - `beavermap` Beam Weaver Mapping
+
+[https://github.com/badw/beavermap.git](https://github.com/badw/beavermap.git)
+
+`beavermap` is a code for multiprocessing and basic analysis and plotting of ESRF synchrotron data. 
+
+
+{{< figure src="/images/beavermap_logo.png" class="normal" width=200 >}}
+
