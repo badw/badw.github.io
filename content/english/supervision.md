@@ -6,7 +6,7 @@ aliases = ["supervision"]
 author = "Benjamin A. D. Williamson"
 +++
 
-PhD Students
+## PhD Students
 
 ## Co-Supervision
 ### Kristoffer Eggestad (2021-2026)
@@ -19,4 +19,17 @@ PhD Students
 ### Ida Cathrine Skogvoll (2021-2026)
 
 {{< figure src="/images/ida.jpg" class="normal" width=200 >}}
+
+
+## Previous Students
+
+### Masters
+
+- Peder Seglesten 2024-2025
+- Sindre Mjøen Svendsen 2023-2024
+- Sunniva Meltzer 2022-2023
+- Vegard Vesterdal Viki 2021-2022
+- Ivar Loland Råheim 2020-2021
+- Bård Skogedal Bergerud 2019-2020
+- Philip Keck 2019 - 2020
 
