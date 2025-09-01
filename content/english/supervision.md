@@ -22,6 +22,10 @@ author = "Benjamin A. D. Williamson"
 
 {{< figure src="/images/ida.jpg" class="normal" width=200 >}}
 
+## Masters Students 
+
+### Vilde Gustavsen 2025-2026
+
 
 ## Previous Students
 
