@@ -8,6 +8,8 @@ author = "Benjamin A. D. Williamson"
 
 ## PhD Students
 
+### Hedda Skatter (2025-2029)
+
 ## Co-Supervision
 ### Kristoffer Eggestad (2021-2026)
 
