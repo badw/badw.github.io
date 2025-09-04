@@ -13,9 +13,9 @@ author = "Benjamin A. D. Williamson"
 ## Co-Supervision
  
  **Kristoffer Eggestad (2021-2026)**
-| ![](/images/kristoffer.jpg)| **Kristoffer Eggestad (2021-2026)** |
 
-{{< figure class="alignleft" src="/images/kristoffer.jpg"  width=200 >}}
+{{< img align="left" src="/images/kristoffer.jpg"  width=200 >}}
+
 
 [Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)
 
@@ -40,4 +40,3 @@ author = "Benjamin A. D. Williamson"
 - Ivar Loland Råheim 2020-2021
 - Bård Skogedal Bergerud 2019-2020
 - Philip Keck 2019 - 2020
-
