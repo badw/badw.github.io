@@ -33,7 +33,6 @@ author = "Benjamin A. D. Williamson"
 
 ## Previous Students
 
-{{< break >}}
 
 ### Masters
 
