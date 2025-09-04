@@ -10,7 +10,6 @@ author = "Benjamin A. D. Williamson"
 
 **Hedda Skatter (2025-2029)**
 
-{{< break >}}
 
 ## Co-Supervision
  
@@ -20,19 +19,17 @@ author = "Benjamin A. D. Williamson"
 
 [Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)
 
-{{< break >}}
 
+  
 **Ida Cathrine Skogvoll (2021-2026)**
 
 {{< figure class="left" src="/images/ida.jpg" width=200 >}}
 
-{{< break >}}
-
+  
 ## Masters Students 
 
 **Vilde Gustavsen 2025-2026**
 
-{{< break >}}
 
 ## Previous Students
 
