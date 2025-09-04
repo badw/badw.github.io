@@ -14,8 +14,7 @@ author = "Benjamin A. D. Williamson"
  
  **Kristoffer Eggestad (2021-2026)**
 
-{{< img align="left" src="/images/kristoffer.jpg"  width=200 >}}
-
+< img align="left" src="/images/kristoffer.jpg"  width=200 >
 
 [Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)
 
