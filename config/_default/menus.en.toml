@@ -1,3 +1,9 @@
+  [[main]]
+  name = "About" 
+  identifier = "about"
+  weight = 100
+  url = "/_index/"
+
 
   [[main]]
   name = "Publications" 
