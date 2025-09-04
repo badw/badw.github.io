@@ -8,23 +8,24 @@ author = "Benjamin A. D. Williamson"
 
 ## PhD Students
 
-### Hedda Skatter (2025-2029)
+** Hedda Skatter (2025-2029) **
 
 ## Co-Supervision
-### Kristoffer Eggestad (2021-2026)
+ 
+ **Kristoffer Eggestad (2021-2026)**
 
 {{< figure class="alignleft" src="/images/kristoffer.jpg"  width=200 >}}
 
 [Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)
 
 
-### Ida Cathrine Skogvoll (2021-2026)
+** Ida Cathrine Skogvoll (2021-2026) **
 
 {{< figure class="alignleft" src="/images/ida.jpg"  width=200 >}}
 
 ## Masters Students 
 
-### Vilde Gustavsen 2025-2026
+** Vilde Gustavsen 2025-2026
 
 
 ## Previous Students
