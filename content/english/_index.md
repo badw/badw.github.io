@@ -1,5 +1,10 @@
 +++
 title = "Home"
+description = "publication cover art"
+date = "2025-03-21"
+aliases = ["home"]
+author = "Benjamin A. D. Williamson"
+
 +++
 
 

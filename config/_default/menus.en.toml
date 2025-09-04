@@ -1,6 +1,6 @@
   [[main]]
   name = "About" 
-  identifier = "about"
+  identifier = "home"
   weight = 100
   url = "/_index/"
 
