@@ -13,13 +13,13 @@ author = "Benjamin A. D. Williamson"
 
 ## Co-Supervision
  
-{{< figure class="right" src="/images/kristoffer.jpg" width="100" >}}
+{{< figure class="center" src="/images/kristoffer.jpg" width="150" >}}
 
  **Kristoffer Eggestad (2021-2026)**
 
 [Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)
 
-{{< figure class="right" src="/images/ida.jpg" width="100">}}
+{{< figure class="center" src="/images/ida.jpg" width="150">}}
 
 **Ida Cathrine Skogvoll (2021-2026)**
 
