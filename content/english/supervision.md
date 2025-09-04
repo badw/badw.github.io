@@ -14,14 +14,14 @@ author = "Benjamin A. D. Williamson"
  
  **Kristoffer Eggestad (2021-2026)**
 
-{{< figure class="alignleft" src="/images/kristoffer.jpg" width=200 >}}
+{{< figure class="floatleft" src="/images/kristoffer.jpg" width=200 >}}
 
 [Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)
 
 
 **Ida Cathrine Skogvoll (2021-2026)**
 
-{{< figure class="alignleft" src="/images/ida.jpg" width=200 >}}
+{{< figure class="loatleft" src="/images/ida.jpg" width=200 >}}
 
 ## Masters Students 
 
