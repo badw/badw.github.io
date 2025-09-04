@@ -17,16 +17,15 @@ author = "Benjamin A. D. Williamson"
 
 {{< figure class="left" src="/images/kristoffer.jpg" width=200 >}}
 
-[Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)
+[Kristoffer's Google Scholar](https://scholar.google.com/citations?user=Rxlk0nkAAAAJ&hl=no)\\
 
-\
-\
+
+
 
 **Ida Cathrine Skogvoll (2021-2026)**
 
-{{< figure class="left" src="/images/ida.jpg" width=200 >}}
-\
-\
+{{< figure class="left" src="/images/ida.jpg" width=200 >}}\\
+
 
 ## Masters Students 
 
