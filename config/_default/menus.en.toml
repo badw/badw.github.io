@@ -1,8 +1,8 @@
   [[main]]
   name = "About" 
-  identifier = "home"
+  identifier = "about"
   weight = 100
-  url = "/_index/"
+  url = "/about/"
 
 
   [[main]]

@@ -1,5 +1,9 @@
 +++
-title = "Home"
+title = "About"
+description = "about"
+date = "2025-03-21"
+aliases = ["about"]
+author = "Benjamin A. D. Williamson"
 +++
 
 
@@ -14,4 +18,3 @@ I am an independent scientific researcher at the Norwegian University of Science
  - **MPhil/PhD** *Chemistry*, UCL, 2014 -- 2018 
  *Supervisor:* Prof. David Scanlon
  - **MSci (1st Class Hons)** *Chemistry*, UCL, 2010 -- 2014
-
