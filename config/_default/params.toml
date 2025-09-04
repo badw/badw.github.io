@@ -73,3 +73,6 @@ url = "mailto:benjamin.williamson@ntnu.no"
 
 [mermaid]
 # enable = true
+
+[params]
+custom_css = ["css/figure.scss"]
