@@ -1,11 +1,13 @@
-img[src$='#floatleft']
-{
-	float:left;
-        //etc. etc/
+figure.floatright {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
 }
 
-img[src$='#floatright']
-{
-	float:right;
-       //etc. etc.
+figure.floatleft {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
 }
