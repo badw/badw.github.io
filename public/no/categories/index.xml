@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Min Blog</title>
+    <title>Categories on Website of Benjamin A. D. Williamson</title>
     <link>http://localhost:1313/no/categories/</link>
-    <description>Recent content in Categories on Min Blog</description>
+    <description>Recent content in Categories on Website of Benjamin A. D. Williamson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>no</language><atom:link href="http://localhost:1313/no/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

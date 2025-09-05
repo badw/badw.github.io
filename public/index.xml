@@ -8,6 +8,17 @@
     <language>en</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>supervision</title>
+      <link>http://localhost:1313/english/supervision/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/supervision/</guid>
+      
+        <description>supervision</description>
+      
+    </item>
+    
+    <item>
+      <title>supervision</title>
       <link>http://localhost:1313/supervision/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       
@@ -18,11 +29,55 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>about</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/english/about/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/about/</guid>
+      
+        <description>about</description>
+      
+    </item>
+    
+    <item>
       <title>Cover Art</title>
       <link>http://localhost:1313/cover_art/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cover_art/</guid>
+      
+        <description>publication cover art</description>
+      
+    </item>
+    
+    <item>
+      <title>Cover Art</title>
+      <link>http://localhost:1313/english/cover_art/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/cover_art/</guid>
+      
+        <description>publication cover art</description>
+      
+    </item>
+    
+    <item>
+      <title>Cover Art</title>
+      <link>http://localhost:1313/norsk/cover_art/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/norsk/cover_art/</guid>
       
         <description>publication cover art</description>
       
@@ -40,6 +95,50 @@
     </item>
     
     <item>
+      <title>curriculum vitae</title>
+      <link>http://localhost:1313/english/cv/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/cv/</guid>
+      
+        <description>curriculum vitae for Benjamin A. D. Williamson</description>
+      
+    </item>
+    
+    <item>
+      <title>curriculum vitae</title>
+      <link>http://localhost:1313/norsk/cv/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/norsk/cv/</guid>
+      
+        <description>curriculum vitae for Benjamin A. D. Williamson</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/english/publications/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/publications/</guid>
+      
+        <description>list of publications</description>
+      
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/norsk/publications/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/norsk/publications/</guid>
+      
+        <description>list of publications</description>
+      
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>http://localhost:1313/publications/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
@@ -52,12 +151,56 @@
     
     <item>
       <title>Research Highlights</title>
+      <link>http://localhost:1313/english/research_highlights/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/research_highlights/</guid>
+      
+        <description>research highlights</description>
+      
+    </item>
+    
+    <item>
+      <title>Research Highlights</title>
+      <link>http://localhost:1313/norsk/research_highlights/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/norsk/research_highlights/</guid>
+      
+        <description>research highlights</description>
+      
+    </item>
+    
+    <item>
+      <title>Research Highlights</title>
       <link>http://localhost:1313/research_highlights/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/research_highlights/</guid>
       
         <description>research highlights</description>
+      
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://localhost:1313/english/software/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/software/</guid>
+      
+        <description>list of software</description>
+      
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>http://localhost:1313/norsk/software/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/norsk/software/</guid>
+      
+        <description>list of software</description>
       
     </item>
     

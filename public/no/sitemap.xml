@@ -2,71 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/no/cover_art/</loc>
-    <lastmod>2025-03-25T10:36:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/cover_art/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/cover_art/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/no/cv/</loc>
-    <lastmod>2025-03-21T15:53:25+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/cv/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/no/publications/</loc>
-    <lastmod>2025-03-25T10:36:35+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/publications/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/no/research_highlights/</loc>
-    <lastmod>2025-03-21T15:53:25+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/research_highlights/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/research_highlights/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/no/software/</loc>
-    <lastmod>2025-03-21T15:53:25+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/software/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/software/"
-                />
-  </url><url>
     <loc>http://localhost:1313/no/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,19 +12,6 @@
                 rel="alternate"
                 hreflang="no"
                 href="http://localhost:1313/no/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/no/</loc>
-    <lastmod>2025-03-24T13:51:38+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="http://localhost:1313/no/"
                 />
   </url><url>
     <loc>http://localhost:1313/no/series/</loc>
@@ -114,6 +36,18 @@
                 rel="alternate"
                 hreflang="no"
                 href="http://localhost:1313/no/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/no/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="http://localhost:1313/no/"
                 />
   </url>
 </urlset>
