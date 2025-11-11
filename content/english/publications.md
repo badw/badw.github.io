@@ -8,6 +8,14 @@ author = "Benjamin A. D. Williamson"
 
 #### 2025:
 
+39: ***PREPRINT** Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX<sub>3</sub> (X = Cl, Br, I)*\
+	K. Eggestad, **B.A.D. Williamson**, and S. M. Selbach *arxiv*, (2025)
+	DOI: [10.48550/arXiv.2511.07194](https://doi.org/10.48550/arXiv.2511.07194)
+
+38: ***PREPRINT** Finite-Temperature Ferroelectric Phase Transitions from Machine-Learned Force Fields*\
+	K. Eggestad, I. C. Skogvoll, Ø. Gullbrekken, **B.A.D. Williamson**, and S. M. Selbach *arxiv*, (2025)
+	DOI: [10.48550/arXiv.2510.25439](https://doi.org/10.48550/arXiv.2510.25439)
+
 37: *Quantifying Emptiness: On the Size of A-Site Vacancies in Tetragonal Tungsten Bronzes*\
 	C. R. Zeiger, K. Eggestad, J. Walker, M.-A. Einarsrud, **B.A.D. Williamson**, and T. Grande *Chemistry of Materials*, ASAP, (2025)
 	DOI: [10.1021/acs.chemmater.4c03438](https://doi.org/10.1021/acs.chemmater.4c03438)
