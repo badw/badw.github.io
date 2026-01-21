@@ -5,8 +5,18 @@ date = "2025-03-21"
 aliases = ["publications"]
 author = "Benjamin A. D. Williamson"
 +++
+#### 2026: 
+
+41: *Spatial distribution of crystalline impurities in degraded high voltage XLPE cable screens using synchrotron wide-angle X-ray scattering*\
+	S. B. Hårberg, O. G. Grendal, **B.A.D. Williamson**, H. Strand, M. Burghammer, S. Hvidsten, M.-A. Einarsrud, *Journal of Physics: Energy*, 8 015016, (2026)
+	DOI: [10.1088/2515-7655/ae34e8](https://iopscience.iop.org/article/10.1088/2515-7655/ae34e8)
+
 
 #### 2025:
+
+40: ***PREPRINT** Local indirect magnetoelectric coupling at twin walls in CaMnO<sub>3</sub>\
+	I. C. Skogvoll, **B.A.D. Williamson**, and S. M. Selbach *arxiv*, (2025)
+	DOI: [10.48550/arXiv.2511.13506](https://arxiv.org/abs/2511.13506)
 
 39: ***PREPRINT** Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX<sub>3</sub> (X = Cl, Br, I)*\
 	K. Eggestad, **B.A.D. Williamson**, and S. M. Selbach *arxiv*, (2025)
@@ -17,7 +27,7 @@ author = "Benjamin A. D. Williamson"
 	DOI: [10.48550/arXiv.2510.25439](https://doi.org/10.48550/arXiv.2510.25439)
 
 37: *Quantifying Emptiness: On the Size of A-Site Vacancies in Tetragonal Tungsten Bronzes*\
-	C. R. Zeiger, K. Eggestad, J. Walker, M.-A. Einarsrud, **B.A.D. Williamson**, and T. Grande *Chemistry of Materials*, ASAP, (2025)
+	C. R. Zeiger, K. Eggestad, J. Walker, M.-A. Einarsrud, **B.A.D. Williamson**, and T. Grande, *Chemistry of Materials*, ASAP, (2025)
 	DOI: [10.1021/acs.chemmater.4c03438](https://doi.org/10.1021/acs.chemmater.4c03438)
 
 36: *Phase Evolution and Thermodynamics of Cubic Li<sub>6.25</sub>Al<sub>0.25</sub>La<sub>3</sub>Zr<sub>2</sub>O<sub>12</sub> Studied by High-Temperature X-ray Diffraction*\
