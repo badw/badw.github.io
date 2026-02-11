@@ -22,7 +22,7 @@
   border-radius: 14px;
   width: 100%;
   padding: 1rem 1rem 1rem 1.25rem;
-  background: linear-gradient(165deg, #ffffff 0%, var(--software-bg) 100%);
+  background: transparent;
   display: grid;
   grid-template-columns: 82px 1fr;
   column-gap: 1.4rem;
@@ -94,7 +94,7 @@
 }
 
 .theme--dark .software-widget .software-card {
-  background: linear-gradient(165deg, #111827 0%, #0f172a 100%);
+  background: transparent;
 }
 
 .theme--dark .software-widget .software-logo {
