@@ -4,6 +4,7 @@ description = "about"
 date = "2025-03-21"
 aliases = ["about"]
 author = "Benjamin A. D. Williamson"
+pageClass = "page-justify"
 +++
 
 ### About
