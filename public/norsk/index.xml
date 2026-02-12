@@ -7,6 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://localhost:1313/norsk/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Supervision</title>
+      <link>http://localhost:1313/norsk/supervision/</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/norsk/supervision/</guid>
+      
+        <description>Supervision and co-supervision</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/norsk/about/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/norsk/about/</guid>
+      
+        <description>about</description>
+      
+    </item>
+    
+    <item>
       <title>Cover Art</title>
       <link>http://localhost:1313/norsk/cover_art/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>

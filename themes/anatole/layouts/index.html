@@ -1,4 +1,10 @@
 {{ define "main" }}
+  {{ $homeContent := .Content }}
+  {{ $aboutPath := printf "/%s/about" .Site.Language.Lang }}
+  {{ $aboutPage := or (.Site.GetPage $aboutPath) (.Site.GetPage "/english/about") (.Site.GetPage "about") }}
+  {{ with $aboutPage }}
+    {{ $homeContent = .Content }}
+  {{ end }}
   <div
     class="post {{ with .Site.Params.doNotLoadAnimations }}
       .
@@ -7,7 +13,7 @@
     {{ end }}"
   >
     <div class="post__content">
-      {{ .Content }}
+      {{ $homeContent }}
     </div>
 
     <!-- (Optional) Home

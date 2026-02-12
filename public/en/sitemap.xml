@@ -3,16 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/english/supervision/</loc>
-    <lastmod>2026-02-11T22:24:05+01:00</lastmod>
+    <lastmod>2026-02-12T09:51:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/norsk/supervision/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/supervision/</loc>
-    <lastmod>2026-02-11T22:24:05+01:00</lastmod>
+    <lastmod>2026-02-12T09:51:04+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-02-12T09:44:28+01:00</lastmod>
+    <lastmod>2026-02-12T09:54:49+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/about/</loc>
-    <lastmod>2026-02-12T09:44:28+01:00</lastmod>
+    <lastmod>2026-02-12T09:54:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/norsk/about/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cover_art/</loc>
     <lastmod>2026-02-11T22:57:51+01:00</lastmod>
