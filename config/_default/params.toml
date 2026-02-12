@@ -13,6 +13,7 @@ customJs = []
 mainSections = ["english/home"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
+contentratio = 0.65
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 #contactFormReCaptcha = "your-site-key-here"
@@ -65,6 +66,11 @@ url = "https://www.linkedin.com/in/benjamin-williamson-8b7b932a4/"
 icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/badw"
+
+[[socialIcons]]
+icon = "fa-brands fa-google"
+title = "Google Scholar"
+url = "https://scholar.google.com/citations?user=c34AgtMAAAAJ&hl=en"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"

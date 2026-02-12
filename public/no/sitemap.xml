@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/no/categories/</loc>
+    <loc>https://badw.github.io/no/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://badw.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="http://localhost:1313/no/categories/"
+                href="https://badw.github.io/no/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/no/series/</loc>
+    <loc>https://badw.github.io/no/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://badw.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="http://localhost:1313/no/series/"
+                href="https://badw.github.io/no/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/no/tags/</loc>
+    <loc>https://badw.github.io/no/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://badw.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="http://localhost:1313/no/tags/"
+                href="https://badw.github.io/no/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/no/</loc>
+    <loc>https://badw.github.io/no/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://badw.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="http://localhost:1313/no/"
+                href="https://badw.github.io/no/"
                 />
   </url>
 </urlset>

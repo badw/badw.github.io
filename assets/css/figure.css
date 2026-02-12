@@ -176,6 +176,8 @@ body {
 
 .theme--dark .body {
 	position: relative;
+	min-height: 100vh;
+	min-height: 100dvh;
 	overflow-x: hidden;
 	overflow-y: auto;
 	background-color: #06121f;
@@ -223,15 +225,39 @@ body {
 }
 
 .theme--dark .wrapper,
-.theme--dark .header {
+.theme--dark .header{
 	position: relative;
 	z-index: 1;
-}
+	background: transparent !important; 
+},
+.theme--dark .footer,
+.theme--dark .footer__base,
+.theme--dark .footer__sidebar,
+.theme--dark .wrapper__sidebar,
+.theme--dark .sidebar,
+
 
 .theme--dark .header,
 .theme--dark .header .nav,
 .theme--dark .header .nav__list {
 	background: transparent !important;
+}
+
+.header,
+.header .nav,
+.header .nav__list,
+.theme--light .header,
+.theme--light .header .nav,
+.theme--light .header .nav__list,
+.theme--dark .header,
+.theme--dark .header .nav,
+.theme--dark .header .nav__list {
+	background: transparent !important;
+}
+
+.theme--light .header,
+.theme--dark .header {
+	border-bottom-color: transparent !important;
 }
 
 .theme--dark .footer,
