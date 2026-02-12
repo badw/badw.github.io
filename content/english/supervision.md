@@ -37,7 +37,7 @@ author = "Benjamin A. D. Williamson"
               aria-label="Google Scholar profile"
               title="Google Scholar"
             >
-              <img src="https://scholar.google.com/favicon.ico" alt="Google Scholar logo" loading="lazy" />
+              <i class="fa-brands fa-google-scholar" aria-hidden="true"></i>
             </a>
             <a
               class="person-icon-link"

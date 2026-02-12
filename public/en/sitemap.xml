@@ -2,116 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://badw.github.io/english/supervision/</loc>
+    <loc>http://localhost:1313/english/supervision/</loc>
     <lastmod>2026-02-11T22:24:05+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/supervision/</loc>
+    <loc>http://localhost:1313/supervision/</loc>
     <lastmod>2026-02-11T22:24:05+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2026-02-12T09:44:28+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/about/</loc>
+    <lastmod>2026-02-12T09:44:28+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cover_art/</loc>
     <lastmod>2026-02-11T22:57:51+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/english/about/</loc>
+    <loc>http://localhost:1313/english/cover_art/</loc>
     <lastmod>2026-02-11T22:57:51+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/cover_art/</loc>
+    <loc>http://localhost:1313/norsk/cover_art/</loc>
     <lastmod>2026-02-11T22:57:51+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/english/cover_art/</loc>
-    <lastmod>2026-02-11T22:57:51+01:00</lastmod>
-  </url><url>
-    <loc>https://badw.github.io/norsk/cover_art/</loc>
-    <lastmod>2026-02-11T22:57:51+01:00</lastmod>
-  </url><url>
-    <loc>https://badw.github.io/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <lastmod>2025-03-21T15:53:25+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/english/cv/</loc>
+    <loc>http://localhost:1313/english/cv/</loc>
     <lastmod>2025-03-21T15:53:25+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/norsk/cv/</loc>
+    <loc>http://localhost:1313/norsk/cv/</loc>
     <lastmod>2025-03-21T15:53:25+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/english/publications/</loc>
+    <loc>http://localhost:1313/english/publications/</loc>
     <lastmod>2026-01-21T14:28:25+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/norsk/publications/</loc>
+    <loc>http://localhost:1313/norsk/publications/</loc>
     <lastmod>2025-03-25T10:36:35+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2026-01-21T14:28:25+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/english/research_highlights/</loc>
+    <loc>http://localhost:1313/english/research_highlights/</loc>
     <lastmod>2026-02-11T22:57:51+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/norsk/research_highlights/</loc>
+    <loc>http://localhost:1313/norsk/research_highlights/</loc>
     <lastmod>2026-02-11T22:57:51+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/research_highlights/</loc>
+    <loc>http://localhost:1313/research_highlights/</loc>
     <lastmod>2026-02-11T22:57:51+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/norsk/software/</loc>
+    <loc>http://localhost:1313/norsk/software/</loc>
     <lastmod>2025-03-21T15:53:25+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/english/software/</loc>
+    <loc>http://localhost:1313/english/software/</loc>
     <lastmod>2026-02-11T22:24:05+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/software/</loc>
+    <loc>http://localhost:1313/software/</loc>
     <lastmod>2026-02-11T22:24:05+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://badw.github.io/no/categories/"
+                href="http://localhost:1313/no/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://badw.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://badw.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-09-04T15:45:19+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://badw.github.io/no/"
+                href="http://localhost:1313/no/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://badw.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://badw.github.io/english/</loc>
+    <loc>http://localhost:1313/english/</loc>
     <lastmod>2025-09-04T15:45:19+02:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/norsk/</loc>
+    <loc>http://localhost:1313/norsk/</loc>
     <lastmod>2025-03-24T13:51:38+01:00</lastmod>
   </url><url>
-    <loc>https://badw.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://badw.github.io/no/series/"
+                href="http://localhost:1313/no/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://badw.github.io/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://badw.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://badw.github.io/no/tags/"
+                href="http://localhost:1313/no/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://badw.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

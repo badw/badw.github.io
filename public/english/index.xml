@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on My blog</title>
-    <link>https://badw.github.io/english/</link>
+    <link>http://localhost:1313/english/</link>
     <description>Recent content in Home on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://badw.github.io/english/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Supervision</title>
-      <link>https://badw.github.io/english/supervision/</link>
+      <link>http://localhost:1313/english/supervision/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://badw.github.io/english/supervision/</guid>
+      <guid>http://localhost:1313/english/supervision/</guid>
       
         <description>Supervision and co-supervision</description>
       
@@ -19,10 +19,10 @@
     
     <item>
       <title>About</title>
-      <link>https://badw.github.io/english/about/</link>
+      <link>http://localhost:1313/english/about/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://badw.github.io/english/about/</guid>
+      <guid>http://localhost:1313/english/about/</guid>
       
         <description>about</description>
       
@@ -30,10 +30,10 @@
     
     <item>
       <title>Cover Art</title>
-      <link>https://badw.github.io/english/cover_art/</link>
+      <link>http://localhost:1313/english/cover_art/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://badw.github.io/english/cover_art/</guid>
+      <guid>http://localhost:1313/english/cover_art/</guid>
       
         <description>publication cover art</description>
       
@@ -41,10 +41,10 @@
     
     <item>
       <title>curriculum vitae</title>
-      <link>https://badw.github.io/english/cv/</link>
+      <link>http://localhost:1313/english/cv/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://badw.github.io/english/cv/</guid>
+      <guid>http://localhost:1313/english/cv/</guid>
       
         <description>curriculum vitae for Benjamin A. D. Williamson</description>
       
@@ -52,10 +52,10 @@
     
     <item>
       <title>Publications</title>
-      <link>https://badw.github.io/english/publications/</link>
+      <link>http://localhost:1313/english/publications/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://badw.github.io/english/publications/</guid>
+      <guid>http://localhost:1313/english/publications/</guid>
       
         <description>list of publications</description>
       
@@ -63,10 +63,10 @@
     
     <item>
       <title>Research Highlights</title>
-      <link>https://badw.github.io/english/research_highlights/</link>
+      <link>http://localhost:1313/english/research_highlights/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://badw.github.io/english/research_highlights/</guid>
+      <guid>http://localhost:1313/english/research_highlights/</guid>
       
         <description>research highlights</description>
       
@@ -74,10 +74,10 @@
     
     <item>
       <title>Software</title>
-      <link>https://badw.github.io/english/software/</link>
+      <link>http://localhost:1313/english/software/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://badw.github.io/english/software/</guid>
+      <guid>http://localhost:1313/english/software/</guid>
       
         <description>Research software and tools</description>
       

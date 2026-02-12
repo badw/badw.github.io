@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website of Benjamin A. D. Williamson</title>
-    <link>https://badw.github.io/no/</link>
+    <link>http://localhost:1313/no/</link>
     <description>Recent content on Website of Benjamin A. D. Williamson</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>no</language><atom:link href="https://badw.github.io/no/index.xml" rel="self" type="application/rss+xml" />
+    <language>no</language><atom:link href="http://localhost:1313/no/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
