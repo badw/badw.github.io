@@ -36,6 +36,7 @@ I am an independent scientific researcher at the Norwegian University of Science
     <div class="about-timeline-content">
       <h4>PDRA</h4>
       <p>Computational Materials Design, UCL</p>
+      <p><em>Advisor:</em> Prof. David Scanlon</p>
     </div>
   </div>
   <div class="about-timeline-item">
