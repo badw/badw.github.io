@@ -8,7 +8,7 @@ author = "Benjamin A. D. Williamson"
 
 #### 2026:
 
-43: **PREPRINT** Electronic Structure and Resonant Circular Dichroism of LaSrMnO from Soft X-ray Angle-Resolved Photoemission\
+43: **PREPRINT** _Electronic Structure and Resonant Circular Dichroism of LaSrMnO from Soft X-ray Angle-Resolved Photoemission_\
  Ø. Finnseth, D. Brzozowski, A. C. Mathisen, S. S. Brinkman, X. L. Tan, F. Gohler, B. A. D. Williamson, K. Eggestad, M.-J. Huang, J. Buck, M. Hoesch, K. Rossnagel, S. M. Selbach, H. Bentmann, I. Hallsteinsen _arxiv_, (2026)
 DOI: [10.48550/arXiv.2603.10794](https://doi.org/10.48550/arXiv.2603.10794)
 
@@ -22,12 +22,12 @@ DOI: [10.1088/2515-7655/ae34e8](https://iopscience.iop.org/article/10.1088/2515-
 
 #### 2025:
 
-40: **PREPRINT** Local indirect magnetoelectric coupling at twin walls in CaMnO<sub>3</sub>\
+40: **PREPRINT** _Local indirect magnetoelectric coupling at twin walls in CaMnO<sub>3</sub>_\
  I. C. Skogvoll, **B.A.D. Williamson**, and S. M. Selbach _arxiv_, (2025)
 DOI: [10.48550/arXiv.2511.13506](https://arxiv.org/abs/2511.13506)
 
-39: **PREPRINT** Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX<sub>3</sub> (X = Cl, Br, I)*\
- K. Eggestad, **B.A.D. Williamson**, and S. M. Selbach *arxiv\*, (2025)
+39: **PREPRINT** _Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX<sub>3</sub> (X = Cl, Br, I)_\
+ K. Eggestad, **B.A.D. Williamson**, and S. M. Selbach \*arxiv\*, (2025)
 DOI: [10.48550/arXiv.2511.07194](https://doi.org/10.48550/arXiv.2511.07194)
 
 38: _Quantifying Emptiness: On the Size of A-Site Vacancies in Tetragonal Tungsten Bronzes_\
