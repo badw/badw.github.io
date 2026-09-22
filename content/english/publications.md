@@ -8,21 +8,21 @@ author = "Benjamin A. D. Williamson"
 
 #### 2026:
 
-44: _Local indirect magnetoelectric coupling at twin walls in CaMnO<sub>3</sub>_ \
-I. C. Skogvoll, **B.A.D. Williamson**, and S. M. Selbach,  _Phys. Rev. B_ 113 224102 (2026)
+44:_Electronic Structure and Resonant Circular Dichroism of LaSrMnO from Soft X-ray Angle-Resolved Photoemission_\
+Ø. Finnseth, D. Brzozowski, A. C. Mathisen, S. S. Brinkman, X. L. Tan, F. Gohler, B. A. D. Williamson, K. Eggestad, M.-J. Huang, J. Buck, M. Hoesch, K. Rossnagel, S. M. Selbach, H. Bentmann, I. Hallsteinsen, _Phys. Rev. B_, 114, 185122 (2026)
+DOI: [10.1103/59pf-43kx](https://doi.org/10.1103/59pf-43kx)
+
+43: _Local indirect magnetoelectric coupling at twin walls in CaMnO<sub>3</sub>_ \
+I. C. Skogvoll, **B.A.D. Williamson**, and S. M. Selbach,  _Phys. Rev. B_, 113, 224102 (2026)
 DOI: [10.1103/6y99-279q](https://doi.org/10.1103/6y99-279q)
 
-43: _Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX<sub>3</sub> (X = Cl, Br, I)_\
+42: _Domain Walls and Defects in Ferroelectric Inorganic Halide Perovskites CsGeX<sub>3</sub> (X = Cl, Br, I)_\
 K. Eggestad, **B.A.D. Williamson**, and S. M. Selbach _Phys. Rev. Mater._ 10 034409, (2026)
 DOI: [10.1103/bf5v-24b2](https://doi.org/10.1103/bf5v-24b2)
 
-42: **PREPRINT** _Stress-modulated ionic transport limits composite cathode kinetics in solid-state batteries_\
+41: **PREPRINT** _Stress-modulated ionic transport limits composite cathode kinetics in solid-state batteries_\
 H. Q. Nguyen, J. Hörmann, B. A. D. Williamson, M. Kanedal, J. Todt, F. Maletić, S. Erker, G. J. Redhammer, N. Schell, J. Keckes, A. Latz, T. Danner, and D. Rettenwander, _chemarxiv_, (2026)
 DOI: [10.26434/chemrxiv.15002843/v](https://doi.org/10.26434/chemrxiv.15002843/v)
-
-41: **PREPRINT** _Electronic Structure and Resonant Circular Dichroism of LaSrMnO from Soft X-ray Angle-Resolved Photoemission_\
-Ø. Finnseth, D. Brzozowski, A. C. Mathisen, S. S. Brinkman, X. L. Tan, F. Gohler, B. A. D. Williamson, K. Eggestad, M.-J. Huang, J. Buck, M. Hoesch, K. Rossnagel, S. M. Selbach, H. Bentmann, I. Hallsteinsen, _arxiv_, (2026)
-DOI: [10.48550/arXiv.2603.10794](https://doi.org/10.48550/arXiv.2603.10794)
 
 40: _Finite-temperature ferroelectric phase transitions from machine-learned force fields_\
  K. Eggestad, I. C. Skogvoll, Ø. Gullbrekken, **B.A.D. Williamson**, and S. M. Selbach, _Phys. Rev. Materials_, 10 034409, (2026)\\
