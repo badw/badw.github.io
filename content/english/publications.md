@@ -8,6 +8,10 @@ author = "Benjamin A. D. Williamson"
 
 #### 2026:
 
+45: **PREPRINT** _Machine-learning-guided exploration of domain walls in the hybrid improper ferroelectric Ca<sub>3</sub>Ti<sub>2</sub>O<sub>7</sub>_\
+I. C. Skogvoll, E. Fransson, L. Ö. Westin, **B. A. D. Williamson**, N. C. Bristowe, S. M. Selbach, P. Erhart, _arxiv_,
+DOI: [10.48550/arXiv.2609.35346](https://doi.org/10.48550/arXiv.2609.35346)
+
 44:_Electronic Structure and Resonant Circular Dichroism of LaSrMnO from Soft X-ray Angle-Resolved Photoemission_\
 Ø. Finnseth, D. Brzozowski, A. C. Mathisen, S. S. Brinkman, X. L. Tan, F. Gohler, B. A. D. Williamson, K. Eggestad, M.-J. Huang, J. Buck, M. Hoesch, K. Rossnagel, S. M. Selbach, H. Bentmann, I. Hallsteinsen, _Phys. Rev. B_, 114, 185122 (2026)
 DOI: [10.1103/59pf-43kx](https://doi.org/10.1103/59pf-43kx)
